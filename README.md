@@ -5,7 +5,7 @@
 + Language Spec: Kotlin/C++/Java/C/Python
 
 #### Developer
-+ Android Developer - OUNCE : Cat Food Diary & Recommendation Application
++ Android Developer - OUNCE : Cat Food Diary Application
 
 #### Planner
 + Service Planner - MARU : Online Reading Discussion Application (iOS Only)
