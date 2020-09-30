@@ -5,10 +5,11 @@
 + Language Spec: Kotlin/C++/Java/C/Python
 
 #### Developer
-+ Android Developer - OUNCE : Cat Food Diary Application
++ Android Developer - OUNCE : Cat Food Diary Application (ing)
++ Android Developer - MARU : Online Reading Discussion Application (ing)
 
 #### Planner
-+ Service Planner - MARU : Online Reading Discussion Application (iOS Only)
++ Service Planner - MARU : Online Reading Discussion Application
 
 #### Blog
 + https://velog.io/@l2hyunwoo
