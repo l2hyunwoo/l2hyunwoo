@@ -1,4 +1,9 @@
-### Hyun Woo Lee
+## Hyun Woo Lee
+<p align="center">Welcome To Hyun Woo Lee's Repository</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=l2hyunwoo&show_icons=true&theme=dark" />
+</a>
+
 #### Profile
 + 2018 ~ : Konkuk University, Dept of Computer Science & Engineering
 + 2020: 26th/27th SOPT, Android Development
@@ -6,16 +11,16 @@
 
 #### Developer
 + Android Lead Developer - OUNCE : Cat Food Diary Application (ing)
-+ Android Developer - MARU : Online Reading Discussion Application (ing)
++ Android Lead Developer - MARU : Online Reading Discussion Application (ing)
 
 #### Planner
 + Service Planner - MARU : Online Reading Discussion Application
 
 #### Blog
-+ https://velog.io/@l2hyunwoo
++ [HyunWoo_deV.log](https://velog.io/@l2hyunwoo)
   + Android Develop, Retrospect
 
 #### Interest
-+ Android/C++ Development
++ Android/Kotlin/C++ Development
 + Machine Learning/Mathematics
 + Football Manager Series
