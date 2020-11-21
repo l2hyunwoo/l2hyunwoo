@@ -1,5 +1,5 @@
 ## Hyun Woo Lee
-✨**Welcome To Hyun Woo's Repository**✨
+<p align="center"><b>✨Welcome To Hyun Woo's Repository✨</b></p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=l2hyunwoo&show_icons=true&theme=dark" />
 </a>
