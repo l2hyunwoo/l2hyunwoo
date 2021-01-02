@@ -10,7 +10,7 @@
 + Language Spec: Kotlin/C++/Java/C/Python
 
 #### Developer
-+ Android Lead Developer - OUNCE : Cat Food Diary Application (ing)
++ Android Developer/Lead Developer - OUNCE : Cat Food Diary Application (ing)
 + Android Lead Developer - MARU : Online Reading Discussion Application (ing)
 + Android Lead Developer - BeMe : Self-Reflection Application (ing)
 
