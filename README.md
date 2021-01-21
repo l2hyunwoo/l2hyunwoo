@@ -13,7 +13,7 @@
 #### Developer
 + Android Developer/Lead Developer - OUNCE : Cat Food Diary Application (ing)
 + Android Lead Developer - MARU : Online Reading Discussion Application (ing)
-+ Android Lead Developer - BeMe : Self-Reflection Application **ver 1.0 출시 대기중**
++ Android Lead Developer - BeMe : Self-Reflection Application [**ver 1.0**](https://play.google.com/store/apps/details?id=com.teambeme.beme)
 
 #### Planner
 + Service Planner - MARU : Online Reading Discussion Application
