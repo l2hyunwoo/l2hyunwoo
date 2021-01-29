@@ -23,6 +23,8 @@
   + Android Develop, Retrospect
 
 #### Interest
-+ Android/Kotlin/C++ Development
-+ Machine Learning/Mathematics
++ Android/Kotlin Development
++ NodeJS/TS Development
++ C++ Programming
++ Machine Learning/Mathematics (Especially Calculus and Linear Algebra)
 + Football Manager Series
