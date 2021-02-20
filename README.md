@@ -16,8 +16,8 @@
 + Language Spec: Kotlin/C++/Java/C/Python/JavaScript
 
 #### Developer
-+ Android Lead Developer - BeMe : Self-Reflection Application [**ver 1.0.1**](https://linktr.ee/BeMeDiary)
-+ Android Developer/Lead Developer - OUNCE : Cat Food Diary Application 
++ Android Lead Developer - BeMe : Self-Reflection Application [**ver 1.0.2**](https://linktr.ee/BeMeDiary)
++ Android Developer/Lead Developer - OUNCE : Cat Food Diary Application **출시 대기 중**
 + Android Lead Developer - MARU : Online Reading Discussion Application (ing)
 + Android Developer - WORDATA
 
