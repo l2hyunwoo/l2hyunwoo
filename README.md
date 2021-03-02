@@ -13,6 +13,7 @@
   - Maru Service Planner
 + 2021
   - 27th SOPT Android MVP
+  - 28th SOPT Android Development [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
   - Android Dev Challenge using Jetpack Compose
   - Ounce Android Lead Developer
   - MARU Android Lead Developer
