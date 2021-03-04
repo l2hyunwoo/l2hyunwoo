@@ -17,7 +17,11 @@
   - Android Dev Challenge using Jetpack Compose [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
   - Ounce Android Lead Developer
   - MARU Android Lead Developer
-+ Language Spec: Kotlin/C++/Java/C/Python/JavaScript
++ Language Spec
+  - Kotlin
+  - C++
+  - Java
+  - JavaScript
 
 #### Developer
 + Android Lead Developer - BeMe : Self-Reflection Application [**ver 1.0.2**](https://linktr.ee/BeMeDiary)
