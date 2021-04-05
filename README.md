@@ -24,7 +24,7 @@
   - JavaScript
 
 #### Developer
-+ Android Lead Developer - [BeMe](https://github.com/TeamBeMe/BeMeAndroid) : Self-Reflection Application [**ver 1.1.1**](https://linktr.ee/BeMeDiary)
++ Android Lead Developer - [BeMe](https://github.com/TeamBeMe/BeMeAndroid) : Self-Reflection Application [**ver 1.1.2**](https://linktr.ee/BeMeDiary)
 + Android Lead Developer - [OUNCE](https://github.com/teamOunce/Ounce_Android) : Cat Food Diary Application [**ver 1.0.1**](https://play.google.com/store/apps/details?id=com.teamounce.ounce)
 + Android Lead Developer - [MARU](https://github.com/bookmaru/MARU-Android) : Online Reading Discussion Application (ing)
 + Android Developer - WORDATA (prepare)
