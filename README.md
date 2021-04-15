@@ -1,42 +1,51 @@
-## Hyun Woo Lee
-<p align="center"><b>✨Welcome To Hyun Woo's Repository✨</b></p>
+<h1 align="center"><b>✨Welcome To Hyun Woo's Repository✨</b></h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=l2hyunwoo&show_icons=true&theme=dark" /></p>
 </a>
 
-#### Profile
-+ 2018 ~ : Konkuk University, Dept of Computer Science & Engineering
-+ 2020
-  - 26th/27th SOPT, Android Development
-  - Ounce(APPJAM) Android Developer
-  - BeMe Android Lead Developer
-  - Maru Service Planner
-+ 2021
-  - 27th SOPT Android MVP
-  - 28th SOPT Android Development 
-  - Android Dev Challenge using Jetpack Compose [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
-  - Ounce Android Lead Developer
-  - MARU Android Lead Developer
-+ Language Spec
-  - Kotlin
-  - C++
-  - Java
-  - JavaScript
+## Me?
 
-#### Developer
-+ Android Lead Developer - [BeMe](https://github.com/TeamBeMe/BeMeAndroid) : Self-Reflection Application [**ver 1.1.2**](https://linktr.ee/BeMeDiary)
-+ Android Lead Developer - [OUNCE](https://github.com/teamOunce/Ounce_Android) : Cat Food Diary Application [**ver 1.0.1**](https://play.google.com/store/apps/details?id=com.teamounce.ounce)
-+ Android Lead Developer - [MARU](https://github.com/bookmaru/MARU-Android) : Online Reading Discussion Application (ing)
-+ Android Developer - WORDATA (prepare)
+<a href="https://velog.io/@l2hyunwoo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@l2hyunwoo"/></a>
+<a href="https://www.instagram.com/l2hyunwoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/l2hyunwoo/"/></a>
 
-#### Planner
-+ Service Planner - MARU : Online Reading Discussion Application
+## Profile
 
-#### Blog
-+ [HyunWoo_deV.log](https://velog.io/@l2hyunwoo)
-  + Android Develop, Retrospect
+### Education
 
-#### Interest
-+ Android/Kotlin Development
-+ C++ Programming
-+ Football Manager Series
+2018 ~ : Konkuk University, Dept of Computer Science & Engineering
+
+### Skills
+
+<p>
+  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+</p>
+
+### Projects
+
+<h3> 2021 </h3>
+
+- Android Lead Developer - [BeMe](https://github.com/TeamBeMe/BeMeAndroid) : Self-Reflection Application [**ver 1.1.2**](https://linktr.ee/BeMeDiary)
+- Android Lead Developer - [OUNCE](https://github.com/teamOunce/Ounce_Android) : Cat Food Diary Application [**ver 1.0.1**](https://play.google.com/store/apps/details?id=com.teamounce.ounce)
+- Android Lead Developer/Service Planner - [MARU](https://github.com/bookmaru/MARU-Android) : Online Reading Discussion Application (ing)
+- Android Dev Challenge using Jetpack Compose [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
+  
+<h3> 2020 </h3>
+
+- Android Developer - [OUNCE(APPJAM)](https://github.com/We-are-Ounce/OUNCE_Android)
+
+### Experience
+
+<h3> 2021 </h3>
+
+- [Mathpresso](https://mathpresso.com/ko) Android Developer
+- 28th SOPT Android Development
+- 27th SOPT Android MVP
+
+<h3> 2020 </h3>
+
+- 27th SOPT Android Development
+- 26th SOPT Android Development
+
