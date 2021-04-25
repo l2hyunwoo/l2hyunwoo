@@ -41,7 +41,7 @@
 
 <h3> 2021 </h3>
 
-- [Mathpresso](https://mathpresso.com/ko) Android Developer
+- 2021.04.19 ~ : [Mathpresso](https://mathpresso.com/ko) Android Developer
 - Winner of Android Dev Challenge using Jetpack Compose(Week1)
 - 28th SOPT Android Development
 - 27th SOPT Android MVP
