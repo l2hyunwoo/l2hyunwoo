@@ -29,7 +29,7 @@
 <h3> 2021 </h3>
 
 - Android Lead Developer - [BeMe](https://github.com/TeamBeMe/BeMeAndroid) : Self-Reflection Application [**ver 1.1.2**](https://linktr.ee/BeMeDiary)
-- Android Lead Developer - [OUNCE](https://github.com/teamOunce/Ounce_Android) : Cat Food Diary Application [**ver 1.0.1**](https://play.google.com/store/apps/details?id=com.teamounce.ounce)
+- Android Lead Developer - [OUNCE](https://github.com/teamOunce/Ounce_Android) : Cat Food Diary Application [**ver 1.0.2**](https://play.google.com/store/apps/details?id=com.teamounce.ounce)
 - Android Lead Developer/Service Planner - [MARU](https://github.com/bookmaru/MARU-Android) : Online Reading Discussion Application (ing)
 - Android Dev Challenge using Jetpack Compose [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
   
