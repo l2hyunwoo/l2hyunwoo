@@ -20,6 +20,9 @@
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/swift-FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
+  <img alt="iOS" src="https://img.shields.io/badge/iOS-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 </p>
@@ -28,9 +31,10 @@
 
 <h3> 2021 </h3>
 
-- Android Lead Developer - [BeMe](https://github.com/TeamBeMe/BeMeAndroid) : Self-Reflection Application [**ver 1.1.3**](https://linktr.ee/BeMeDiary)
-- Android Lead Developer - [OUNCE](https://github.com/teamOunce/Ounce_Android) : Cat Food Diary Application [**ver 1.0.3**](https://play.google.com/store/apps/details?id=com.teamounce.ounce)
-- Android Lead Developer/Service Planner - [MARU](https://github.com/bookmaru/MARU-Android) : Online Reading Discussion Application (ing)
+- Android Lead Developer - BeMe : Self-Reflection Application [**ver 1.1.3**](https://linktr.ee/BeMeDiary)
+- Android Lead Developer - OUNCE : Cat Food Diary Application [**ver 1.0.3**](https://play.google.com/store/apps/details?id=com.teamounce.ounce)
+- Android Lead Developer/Service Planner - MARU : Online Reading Discussion Application (ing)
+- Android Lead Developer - Gachisaja
 - Android Dev Challenge using Jetpack Compose [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
   
 <h3> 2020 </h3>
@@ -50,7 +54,6 @@
 
 - 27th SOPT Android Development
 - 26th SOPT Android Development
-
 
 
 ### More
