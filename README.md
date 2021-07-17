@@ -35,7 +35,7 @@
 - Android Lead Developer - OUNCE : Cat Food Diary Application [**ver 1.0.3**](https://play.google.com/store/apps/details?id=com.teamounce.ounce)
 - Android Lead Developer/Service Planner - MARU : Online Reading Discussion Application (ing)
 - Android Lead Developer - Gachisaja
-- Android Lead Developer - Catch Me : Metaverse, Interest Based Character Management Diary
+- Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary **ver 1.0.0-alpha**
 - Android Dev Challenge using Jetpack Compose [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
   
 <h3> 2020 </h3>
