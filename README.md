@@ -1,6 +1,6 @@
 <h1 align="center"><b>✨Welcome To Hyun Woo's Repository✨</b></h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=l2hyunwoo&show_icons=true&theme=dark" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=l2hyunwoo&count_private=true&show_icons=true&theme=dark" /></p>
 </a>
 
 ## Me?
