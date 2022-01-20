@@ -2,6 +2,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=l2hyunwoo&count_private=true&show_icons=true&theme=dark" /></p>
 </a>
+<p align="center"><img src="https://github-profile-trophy.vercel.app?username=l2hyunwoo" /></p>
 
 ## Me?
 
@@ -28,6 +29,9 @@
 </p>
 
 ### Projects
+
+<h3> 2022 </h3>
+- Android Developer - FILL-IN
 
 <h3> 2021 </h3>
 
