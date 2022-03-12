@@ -32,7 +32,7 @@
 
 <h3> 2022 </h3>
 
-- Android Developer - FILL-IN [**version 1.0.3**](https://play.google.com/store/apps/details?id=com.teamfillin.fillin) : Film Camera D.P.&E. Search Application
+- Android Developer - FILL-IN : Film Camera D.P.&E. Search Application [**version 1.0.3**](https://play.google.com/store/apps/details?id=com.teamfillin.fillin)
 
 <h3> 2021 </h3>
 
