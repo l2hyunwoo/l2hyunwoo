@@ -21,11 +21,10 @@
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img alt="Swift" src="https://img.shields.io/badge/swift-FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
-  <img alt="iOS" src="https://img.shields.io/badge/iOS-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  
 </p>
 
 ### Projects
@@ -54,6 +53,10 @@
 - Android Developer - [OUNCE(APPJAM)](https://github.com/We-are-Ounce/OUNCE_Android)
 
 ### Experience
+
+<h3> 2022 </h3>
+
+- 30th SOPT Server Development
 
 <h3> 2021 </h3>
 
