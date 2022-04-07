@@ -21,9 +21,13 @@
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+</p>
+<p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  
+  <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### Projects
@@ -60,7 +64,8 @@
 
 <h3> 2021 </h3>
 
-- 2021.04 ~ : [Mathpresso](https://mathpresso.com/ko) Android Developer
+- 2021.04 ~ : [Team Qanda](https://mathpresso.com/ko) 
+    - QANDA Android/React Native Developer
 - Winner of Android Dev Challenge using Jetpack Compose(Week1)
 - 28th SOPT Android Development
 - 27th SOPT Android MVP
@@ -71,7 +76,7 @@
 - 26th SOPT Android Development
 
 
-### More
+## More
 
-#### My Recent Article
+### My Recent Article
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=l2hyunwoo)](https://velog-readme-stats.vercel.app/api/redirect?name=l2hyunwoo)
