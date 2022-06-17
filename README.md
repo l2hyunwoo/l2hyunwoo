@@ -36,17 +36,17 @@
 <h3> 2022 </h3>
 
 - Android Developer - FILL-IN : Film Camera D.P.&E. Search Application [**version 1.0.3**](https://play.google.com/store/apps/details?id=com.teamfillin.fillin)
-- Android Lead Developer - HACKER [**ver 1.0.0**](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
+- Android Lead Developer - HACKER [**ver 1.0.2**](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
 
 <h3> 2021 </h3>
 
 <h4> Own Projects </h4>
 
-- Android Lead Developer - BeMe : Self-Reflection Application [**ver 1.1.3**](https://linktr.ee/BeMeDiary)
-- Android Lead Developer - OUNCE : Cat Food Diary Application [**ver 1.0.3**](https://play.google.com/store/apps/details?id=com.teamounce.ounce)
+- Android Lead Developer - BeMe : Self-Reflection Application (2021.01 ~ 2022.06)
+- Android Lead Developer - OUNCE : Cat Food Diary Application (2020.12 ~ 2021.02)
 - Android Lead Developer/Service Planner - MARU : Online Reading Discussion Application (ing)
 - Android Lead Developer - Gachisaja : Neighbor Commerce Application
-- Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary **ver 1.0.0-alpha**
+- Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary
 - Android Dev Challenge using Jetpack Compose [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
 
 <h4> Open Source Project </h4>
