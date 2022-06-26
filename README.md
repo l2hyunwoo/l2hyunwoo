@@ -45,8 +45,8 @@
 - Android Lead Developer - BeMe : Self-Reflection Application (2021.01 ~ 2022.06)
 - Android Lead Developer - OUNCE : Cat Food Diary Application (2020.12 ~ 2021.02)
 - Android Lead Developer/Service Planner - MARU : Online Reading Discussion Application (ing)
-- Android Lead Developer - Gachisaja : Neighbor Commerce Application
-- Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary
+- Android Lead Developer - Gachisaja : Neighbor Commerce Application (ing)
+- Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary (ing)
 - Android Dev Challenge using Jetpack Compose [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
 
 <h4> Open Source Project </h4>
