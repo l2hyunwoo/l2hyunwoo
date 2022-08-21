@@ -62,7 +62,7 @@
 
 <h3> 2022 </h3>
 
-- 31th SOPT Android Part Leader
+- 31th SOPT Android Development - **Part Leader**
 - 30th SOPT Server Development
 
 <h3> 2021 </h3>
