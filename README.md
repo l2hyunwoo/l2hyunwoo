@@ -53,6 +53,7 @@
 <h4> Open Source Project </h4>
 
 - Contributor - [DroidKnights 2021 Conference Applicaton](https://github.com/droidknights/DroidKnights2021_App)
+- Contributor - [DroidKaigi 2022 Conference Application](https://github.com/DroidKaigi/conference-app-2022)
   
 <h3> 2020 </h3>
 
