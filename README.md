@@ -35,9 +35,15 @@
 
 <h3> 2022 </h3>
 
+<h4> Own Projects </h4>
+
 - Android Developer - FILL-IN : Film Camera D.P.&E. Search Application [**version 1.0.3**](https://play.google.com/store/apps/details?id=com.teamfillin.fillin)
 - Android Lead Developer - HACKER [**ver 1.0.3**](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
 - Server Lead Developer - Health-Food-Me
+
+<h4> Open Source Project </h4>
+
+- Contributor - [DroidKaigi 2022 Conference Application](https://github.com/DroidKaigi/conference-app-2022)
 
 <h3> 2021 </h3>
 
@@ -53,7 +59,6 @@
 <h4> Open Source Project </h4>
 
 - Contributor - [DroidKnights 2021 Conference Applicaton](https://github.com/droidknights/DroidKnights2021_App)
-- Contributor - [DroidKaigi 2022 Conference Application](https://github.com/DroidKaigi/conference-app-2022)
   
 <h3> 2020 </h3>
 
