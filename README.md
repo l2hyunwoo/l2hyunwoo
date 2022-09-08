@@ -44,6 +44,7 @@
 <h4> Open Source Project </h4>
 
 - Contributor - [DroidKaigi 2022 Conference Application](https://github.com/DroidKaigi/conference-app-2022)
+- Contributor - [react-native-naver-login](https://github.com/react-native-seoul/react-native-naver-login)
 
 <h3> 2021 </h3>
 
