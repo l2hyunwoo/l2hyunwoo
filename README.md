@@ -38,7 +38,7 @@
 <h4> Own Projects </h4>
 
 - Android Developer - FILL-IN : Film Camera D.P.&E. Search Application [**version 1.0.3**](https://play.google.com/store/apps/details?id=com.teamfillin.fillin)
-- Android Lead Developer - HACKER [**ver 1.0.3**](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
+- Android Lead Developer - HACKER [**ver 1.0.4**](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
 - Server Lead Developer - Health-Food-Me
 
 <h4> Open Source Project </h4>
@@ -52,8 +52,7 @@
 
 - Android Lead Developer - BeMe : Self-Reflection Application (2021.01 ~ 2022.06)
 - Android Lead Developer - OUNCE : Cat Food Diary Application (2020.12 ~ 2021.02)
-- Android Lead Developer/Service Planner - MARU : Online Reading Discussion Application (ing)
-- Android Lead Developer - Gachisaja : Neighbor Commerce Application ver 1.0.0
+- Android Lead Developer - Gachisaja : Neighbor Commerce Application ver 1.0.6
 - Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary (ing)
 - Android Dev Challenge using Jetpack Compose [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
 
