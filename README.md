@@ -37,7 +37,7 @@
 
 <h4> Own Projects </h4>
 
-- Android Developer - SOPT Official Android App
+- Android Developer - SOPT Official Android App/SOPTAMP
 - Android Developer - FILL-IN : Film Camera D.P.&E. Search Application [**version 1.0.3**](https://play.google.com/store/apps/details?id=com.teamfillin.fillin)
 - Android Lead Developer - HACKER [**ver 1.0.5**](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
 - Server Lead Developer - Health-Food-Me
@@ -46,6 +46,7 @@
 
 - Contributor - [DroidKaigi 2022 Conference Application](https://github.com/DroidKaigi/conference-app-2022)
 - Contributor - [react-native-naver-login](https://github.com/react-native-seoul/react-native-naver-login)
+- Contributor - [react-native-kakao-login](https://github.com/react-native-seoul/react-native-kakao-login)
 
 <h3> 2021 </h3>
 
@@ -53,7 +54,7 @@
 
 - Android Lead Developer - BeMe : Self-Reflection Application (2021.01 ~ 2022.06)
 - Android Lead Developer - OUNCE : Cat Food Diary Application (2020.12 ~ 2021.02)
-- Android Lead Developer - Gachisaja : Neighbor Commerce Application ver 1.0.7
+- Android Lead Developer - Gachisaja : Neighbor Commerce Application (2021.04 ~ 2022.12)
 - Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary (ing)
 - Android Dev Challenge using Jetpack Compose [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
 
