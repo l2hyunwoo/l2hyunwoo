@@ -88,7 +88,7 @@
 - 26th SOPT Android Development
 
 
-## More
+## More 
 
 ### My Recent Article
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=l2hyunwoo)](https://velog-readme-stats.vercel.app/api/redirect?name=l2hyunwoo)
