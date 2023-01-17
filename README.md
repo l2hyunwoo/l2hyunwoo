@@ -1,4 +1,4 @@
-<h1 align="center"><b>✨Welcome To Hyun Woo's Repository✨</b></h1>
+<h1 align="center"><b>👋 It's Nunu(HyunWoo Lee)</b></h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=l2hyunwoo&count_private=true&show_icons=true&theme=dark" /></p>
 </a>
@@ -21,57 +21,44 @@
 
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img alt="KMM(Kotlin Moblie MultiPlatform)" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin+Mobile+Multiplatform&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label="/>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### Projects
 
-<h3> 2022 </h3>
-
-<h4> Own Projects </h4>
+<h3> Own Projects </h3>
 
 - Android Developer - SOPT Official Android App/SOPTAMP
 - Android Developer - FILL-IN : Film Camera D.P.&E. Search Application [**version 1.0.3**](https://play.google.com/store/apps/details?id=com.teamfillin.fillin)
 - Android Lead Developer - HACKER [**ver 1.0.5**](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
 - Server Lead Developer - Health-Food-Me
-
-<h4> Open Source Project </h4>
-
-- Contributor - [DroidKaigi 2022 Conference Application](https://github.com/DroidKaigi/conference-app-2022)
-- Contributor - [react-native-naver-login](https://github.com/react-native-seoul/react-native-naver-login)
-- Contributor - [react-native-kakao-login](https://github.com/react-native-seoul/react-native-kakao-login)
-
-<h3> 2021 </h3>
-
-<h4> Own Projects </h4>
-
 - Android Lead Developer - BeMe : Self-Reflection Application (2021.01 ~ 2022.06)
 - Android Lead Developer - OUNCE : Cat Food Diary Application (2020.12 ~ 2021.02)
 - Android Lead Developer - Gachisaja : Neighbor Commerce Application (2021.04 ~ 2022.12)
 - Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary (ing)
 - Android Dev Challenge using Jetpack Compose [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
-
-<h4> Open Source Project </h4>
-
-- Contributor - [DroidKnights 2021 Conference Applicaton](https://github.com/droidknights/DroidKnights2021_App)
-  
-<h3> 2020 </h3>
-
 - Android Developer - [OUNCE(APPJAM)](https://github.com/We-are-Ounce/OUNCE_Android)
+
+<h3> Open Source Projects </h4>
+
+- Contributor - [Jandi](https://github.com/techinpark/Jandi)
+- Contributor - [DroidKaigi 2022 Conference Application](https://github.com/DroidKaigi/conference-app-2022)
+- Contributor - [react-native-naver-login](https://github.com/react-native-seoul/react-native-naver-login)
+- Contributor - [react-native-kakao-login](https://github.com/react-native-seoul/react-native-kakao-login)
+- Contributor - [DroidKnights 2021 Conference Applicaton](https://github.com/droidknights/DroidKnights2021_App)
 
 ### Experience
 
 <h3> 2022 </h3>
 
 - 1st SOPT Makers - Android Developer
-- 31th SOPT Android Development - **Part Leader**
+- 31st SOPT Android Development - **Part Leader**
 - 30th SOPT Server Development
 
 <h3> 2021 </h3>
