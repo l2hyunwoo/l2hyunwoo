@@ -1,4 +1,4 @@
-<h1 align="center"><b>👋 It's Nunu(HyunWoo Lee)</b></h1>
+<h1 align="center"><b>👋 It's Nunu (HyunWoo Lee)</b></h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=l2hyunwoo&count_private=true&show_icons=true&theme=dark" /></p>
 </a>
@@ -55,6 +55,10 @@
 - Contributor - [DroidKnights 2021 Conference Applicaton](https://github.com/droidknights/DroidKnights2021_App)
 
 ### Experience
+
+<h3> 2023 </h3>
+
+- 2nd SOPT Makers - Android Lead Developer
 
 <h3> 2022 </h3>
 
