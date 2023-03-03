@@ -36,13 +36,13 @@
 
 - Android Developer - SOPT Official Android App/SOPTAMP
 - Android Developer - FILL-IN : Film Camera D.P.&E. Search Application [**version 1.0.3**](https://play.google.com/store/apps/details?id=com.teamfillin.fillin)
-- Android Lead Developer - HACKER [**ver 1.0.5**](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
+- Android Lead Developer - HACKER [**ver 1.0.6**](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
 - Server Lead Developer - Health-Food-Me
-- Android Lead Developer - BeMe : Self-Reflection Application (2021.01 ~ 2022.06)
-- Android Lead Developer - OUNCE : Cat Food Diary Application (2020.12 ~ 2021.02)
 - Android Lead Developer - Gachisaja : Neighbor Commerce Application (2021.04 ~ 2022.12)
 - Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary (ing)
+- Android Lead Developer - BeMe : Self-Reflection Application (2021.01 ~ 2022.06)
 - Android Dev Challenge using Jetpack Compose [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
+- Android Lead Developer - OUNCE : Cat Food Diary Application (2020.12 ~ 2021.02)
 - Android Developer - [OUNCE(APPJAM)](https://github.com/We-are-Ounce/OUNCE_Android)
 
 <h3> Open Source Projects </h4>
