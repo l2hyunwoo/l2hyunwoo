@@ -35,7 +35,7 @@
 <h3> Own Projects </h3>
 
 - Android Developer - SOPT Official Android App
-- Android Developer - SOPTAMP [**ver 0.9.0**](https://play.google.com/store/apps/details?id=org.sopt.stamp)
+- Android Developer - SOPTAMP [**ver 1.0.0**](https://play.google.com/store/apps/details?id=org.sopt.stamp)
 - Android Developer - FILL-IN : Film Camera D.P.&E. Search Application [**version 1.0.3**](https://play.google.com/store/apps/details?id=com.teamfillin.fillin)
 - Android Lead Developer - HACKER [**ver 1.0.6**](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
 - Server Lead Developer - Health-Food-Me
