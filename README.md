@@ -60,8 +60,8 @@
 <h3> 2023 </h3>
 
 - 2nd SOPT Makers - Android Chapter Lead
-- [super.init(version = 4)](https://festa.io/events/3267) - Speaker
-  - 선언형 UI가 대세임을 "선언" 합니다. (Compose 학습부터 적용까지의 일대기)
+- super.init(version = 4) - Speaker
+  - 선언형 UI가 대세임을 "선언" 합니다. (Compose 학습부터 적용까지의 일대기) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/seoneonhyeong-uiga-daeseimeul-seoneonhabnida)
 
 <h3> 2022 </h3>
 
