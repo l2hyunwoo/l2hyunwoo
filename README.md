@@ -62,6 +62,8 @@
 - 2nd SOPT Makers - Android Chapter Lead
 - super.init(version = 4) - Speaker
   - 선언형 UI가 대세임을 "선언" 합니다. (Compose 학습부터 적용까지의 일대기) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/seoneonhyeong-uiga-daeseimeul-seoneonhabnida)
+- KotlinConf'23 Global in Songdo - Speaker
+  - Functional Kotlin makes Kotlin functional
 
 <h3> 2022 </h3>
 
