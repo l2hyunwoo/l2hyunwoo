@@ -34,13 +34,14 @@
 
 <h3> Own Projects </h3>
 
-- Android Developer - SOPT Official Android App
-- Android Developer - SOPTAMP [**ver 1.0.0**](https://play.google.com/store/apps/details?id=org.sopt.stamp)
-- Android Developer - FILL-IN : Film Camera D.P.&E. Search Application [**version 1.0.3**](https://play.google.com/store/apps/details?id=com.teamfillin.fillin)
+- Android Lead Developer - SOPT Official Android App [**v0.9.1**](https://play.google.com/store/apps/details?id=org.sopt.official)
 - Android Lead Developer - HACKER [**ver 1.0.6**](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
+- Android Developer - FILL-IN : Film Camera D.P.&E. Search Application [**version 1.0.3**](https://play.google.com/store/apps/details?id=com.teamfillin.fillin)
+- Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary (ing)
+
+- Android Developer - SOPTAMP (2022.10 ~ 2023.04)
 - Server Lead Developer - Health-Food-Me
 - Android Lead Developer - Gachisaja : Neighbor Commerce Application (2021.04 ~ 2022.12)
-- Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary (ing)
 - Android Lead Developer - BeMe : Self-Reflection Application (2021.01 ~ 2022.06)
 - Android Dev Challenge using Jetpack Compose [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
 - Android Lead Developer - OUNCE : Cat Food Diary Application (2020.12 ~ 2021.02)
