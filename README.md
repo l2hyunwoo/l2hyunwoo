@@ -35,6 +35,7 @@
 
 <h3> Own Projects </h3>
 
+- Android Developer - Pophory
 - Android Lead Developer - SOPT Official Android App [**ver 1.0.1**](https://play.google.com/store/apps/details?id=org.sopt.official)
 - Android Lead Developer - HACKER [**ver 1.0.6**](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
 - Android Developer - FILL-IN : Film Camera D.P.&E. Search Application [**ver 1.0.3**](https://play.google.com/store/apps/details?id=com.teamfillin.fillin)
@@ -80,7 +81,7 @@
 
 <h3> 2021 </h3>
 
-- 2021.04 ~ : [Team Qanda](https://mathpresso.com/ko) 
+- 2021.04 ~ 2023.07 : [Team Qanda](https://mathpresso.com/ko) 
     - QANDA Android/React Native Developer
 - Winner of Android Dev Challenge using Jetpack Compose(Week1)
 - 28th SOPT Android Development
