@@ -53,6 +53,7 @@
 
 <h3> Open Source Projects </h4>
 
+- Collaborator - [MovieCompose](https://github.com/Nanamare/MovieCompose)
 - Contributor - [SSPullToRefresh](https://github.com/SimformSolutionsPvtLtd/SSPullToRefresh)
 - Contributor - [Jandi](https://github.com/techinpark/Jandi)
 - Contributor - [DroidKaigi 2022 Conference Application](https://github.com/DroidKaigi/conference-app-2022)
