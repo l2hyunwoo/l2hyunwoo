@@ -36,13 +36,13 @@
 <h3> Own Projects </h3>
 
 - Android Developer - Pophory
-- Android Lead Developer - SOPT Official Android App [**ver 1.0.1**](https://play.google.com/store/apps/details?id=org.sopt.official)
-- Android Lead Developer - HACKER [**ver 1.0.6**](https://play.google.com/store/apps/details?id=com.teamzzong.hacker)
-- Android Developer - FILL-IN : Film Camera D.P.&E. Search Application [**ver 1.0.3**](https://play.google.com/store/apps/details?id=com.teamfillin.fillin)
 - Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary (ing)
 
 <br/>
 
+- Android Lead Developer - SOPT Official Android App [**ver 1.0.1**](https://play.google.com/store/apps/details?id=org.sopt.official)
+- Android Lead Developer - HACKER
+- Android Developer - FILL-IN : Film Camera D.P.&E. Search Application
 - Android Developer - SOPTAMP (2022.10 ~ 2023.04)
 - Server Lead Developer - Health-Food-Me
 - Android Lead Developer - Gachisaja : Neighbor Commerce Application (2021.04 ~ 2022.12)
