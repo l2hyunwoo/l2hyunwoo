@@ -35,7 +35,7 @@
 
 <h3> Own Projects </h3>
 
-- Android Developer - Pophory [**ver 1.1.3**](https://play.google.com/store/apps/details?id=com.teampophory.pophory)
+- Android Developer/Product Owner - Pophory [**ver 1.1.3**](https://play.google.com/store/apps/details?id=com.teampophory.pophory)
 - Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary (ing)
 
 <br/>
@@ -53,14 +53,16 @@
 
 <h3> Open Source Projects </h4>
 
+- Contributor - [DroidKaigi 2023 Conference Application](https://github.com/DroidKaigi/conference-app-2023)
 - Collaborator - [MovieCompose](https://github.com/Nanamare/MovieCompose)
+- Contributor - [reworkd - AgentGPT](https://github.com/reworkd/AgentGPT)
 - Contributor - [SSPullToRefresh](https://github.com/SimformSolutionsPvtLtd/SSPullToRefresh)
 - Contributor - [Jandi](https://github.com/techinpark/Jandi)
 - Contributor - [DroidKaigi 2022 Conference Application](https://github.com/DroidKaigi/conference-app-2022)
 - Contributor - [react-native-naver-login](https://github.com/react-native-seoul/react-native-naver-login)
 - Contributor - [react-native-kakao-login](https://github.com/react-native-seoul/react-native-kakao-login)
 - Contributor - [DroidKnights 2021 Conference Applicaton](https://github.com/droidknights/DroidKnights2021_App)
-- Contributor - [reworkd - AgentGPT](https://github.com/reworkd/AgentGPT)
+
 
 ### Experience
 
