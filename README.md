@@ -53,6 +53,7 @@
 
 <h3> Open Source Projects </h4>
 
+- Contributor - [DroidKnights 2023 Conference Applicaton](https://github.com/droidknights/DroidKnights2023_App)
 - Contributor - [DroidKaigi 2023 Conference Application](https://github.com/DroidKaigi/conference-app-2023)
 - Collaborator - [MovieCompose](https://github.com/Nanamare/MovieCompose)
 - Contributor - [reworkd - AgentGPT](https://github.com/reworkd/AgentGPT)
