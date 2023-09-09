@@ -35,7 +35,8 @@
 
 <h3> Own Projects </h3>
 
-- Android Developer/Product Owner - Pophory [**ver 1.1.3**](https://play.google.com/store/apps/details?id=com.teampophory.pophory)
+- React Native Developer - Katchup
+- Android Developer/Product Owner - Pophory [**ver 1.1.4**](https://play.google.com/store/apps/details?id=com.teampophory.pophory)
 - Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary (ing)
 
 <br/>
