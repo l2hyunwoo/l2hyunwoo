@@ -13,10 +13,6 @@
 
 ## Profile
 
-### Education
-
-2018 ~ : Konkuk University, Dept of Computer Science & Engineering
-
 ### Skills
 
 <p>
@@ -70,7 +66,8 @@
 
 <h3> 2023 </h3>
 
-- Lead of GDSC(Google Developer Student Club) Konkuk University
+- [Kotlin User Groups](https://kotlinlang.org/community/user-groups/) Seoul Organizer
+- Lead of [GDSC(Google Developer Student Club) Konkuk University](https://github.com/gdsc-konkuk)
 - 2nd SOPT Makers - Android Chapter Lead
 - super.init(version = 4) - Speaker
   - 선언형 UI가 대세임을 "선언" 합니다. (Compose 학습부터 적용까지의 일대기) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/seoneonhyeong-uiga-daeseimeul-seoneonhabnida)
@@ -97,3 +94,9 @@
 
 - 27th SOPT Android Development
 - 26th SOPT Android Development
+
+
+### Education
+
+2018 ~ : Konkuk University, Dept of Computer Science & Engineering
+
