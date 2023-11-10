@@ -50,6 +50,7 @@
 
 <h3> Open Source Projects </h4>
 
+- Contributor - [square/okhttp](https://github.com/square/okhttp)
 - Contributor - [arrow-kt/arrow](https://github.com/arrow-kt/arrow)
 - Contributor - [DroidKnights 2023 Conference Applicaton](https://github.com/droidknights/DroidKnights2023_App)
 - Contributor - [DroidKaigi 2023 Conference Application](https://github.com/DroidKaigi/conference-app-2023)
