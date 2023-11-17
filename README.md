@@ -33,20 +33,19 @@
 
 - React Native Developer - Katchup
 - Android Developer/Product Owner - Pophory [**ver 1.2.0**](https://play.google.com/store/apps/details?id=com.teampophory.pophory)
-- Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary (ing)
 
 <br/>
 
-- Android Lead Developer - SOPT Official Android App [**ver 2.0.1**](https://play.google.com/store/apps/details?id=org.sopt.official)
+- Android Lead Developer - SOPT Official Android App [**ver 2.0.2**](https://play.google.com/store/apps/details?id=org.sopt.official)
 - Android Lead Developer - HACKER
 - Android Developer - FILL-IN : Film Camera D.P.&E. Search Application
-- Android Developer - SOPTAMP (2022.10 ~ 2023.04)
-- Server Lead Developer - Health-Food-Me
-- Android Lead Developer - Gachisaja : Neighbor Commerce Application (2021.04 ~ 2022.12)
-- Android Lead Developer - BeMe : Self-Reflection Application (2021.01 ~ 2022.06)
+- Android Developer - SOPTAMP
+- Server Developer - Health-Food-Me
+- Android Lead Developer - Gachisaja : Neighbor Commerce Application
+- Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary
+- Android Lead Developer - BeMe : Self-Reflection Application
 - Android Dev Challenge using Jetpack Compose [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
-- Android Lead Developer - OUNCE : Cat Food Diary Application (2020.12 ~ 2021.02)
-- Android Developer - [OUNCE(APPJAM)](https://github.com/We-are-Ounce/OUNCE_Android)
+- Android Lead Developer - OUNCE : Cat Food Diary Application
 
 <h3> Open Source Projects </h4>
 
