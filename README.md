@@ -68,13 +68,15 @@
 
 <h3> 2023 </h3>
 
-- [Kotlin User Groups](https://kotlinlang.org/community/user-groups/) Seoul Organizer
-- Lead of [GDSC(Google Developer Student Club) Konkuk University](https://github.com/gdsc-konkuk)
 - 2nd SOPT Makers - Android Chapter Lead
 - super.init(version = 4) - Speaker
   - 선언형 UI가 대세임을 "선언" 합니다. (Compose 학습부터 적용까지의 일대기) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/seoneonhyeong-uiga-daeseimeul-seoneonhabnida)
 - KotlinConf'23 Global in Songdo - Speaker
   - Functional Kotlin makes Kotlin functional - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/functional-kotlin-makes-kotlin-functional)
+- Lead of [GDSC(Google Developer Student Club) Konkuk University](https://github.com/gdsc-konkuk)
+- [Kotlin User Groups](https://kotlinlang.org/community/user-groups/) Seoul Organizer
+- Mobile App Developer Conference - Speaker
+  - Jetpack Compose - 실무에 발라보기 (Jetpack Compose in Practical Way) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/jetpack-compose-silmue-balrabogi)
 
 <h3> 2022 </h3>
 
