@@ -49,6 +49,7 @@
 
 <h3> Open Source Projects </h4>
 
+- Contributor - [TEAM-PREAT/peekaboo](https://github.com/TEAM-PREAT/peekaboo)
 - Maintainer - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
 - Contributor - [square/okhttp](https://github.com/square/okhttp)
 - Contributor - [arrow-kt/arrow](https://github.com/arrow-kt/arrow)
