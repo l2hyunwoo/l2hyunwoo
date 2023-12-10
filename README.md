@@ -78,6 +78,8 @@
 - [Kotlin User Groups](https://kotlinlang.org/community/user-groups/) Seoul Organizer
 - Mobile App Developer Conference - Speaker
   - Jetpack Compose - 실무에 발라보기 (Jetpack Compose in Practical Way) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/jetpack-compose-silmue-balrabogi)
+- GDG Devfest Songfo - Speaker
+  - fun HelloKMP(): GladToMeetYou - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/fun-hellokmp-gladtomeetyou)
 
 <h3> 2022 </h3>
 
