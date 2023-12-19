@@ -36,7 +36,7 @@
 
 <br/>
 
-- Android Lead Developer - SOPT Official Android App [**ver 2.0.2**](https://play.google.com/store/apps/details?id=org.sopt.official)
+- Android Lead Developer - SOPT Official Android App [**ver 2.0.4**](https://play.google.com/store/apps/details?id=org.sopt.official)
 - Android Lead Developer - HACKER
 - Android Developer - FILL-IN : Film Camera D.P.&E. Search Application
 - Android Developer - SOPTAMP
