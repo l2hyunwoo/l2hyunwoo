@@ -27,25 +27,13 @@
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### Projects
+## Projects
 
-<h3> Own Projects </h3>
-
-- React Native Developer - Katchup
 - Android Developer/Product Owner - Pophory [**ver 1.2.0**](https://play.google.com/store/apps/details?id=com.teampophory.pophory)
-
-<br/>
-
-- Android Lead Developer - SOPT Official Android App [**ver 2.0.4**](https://play.google.com/store/apps/details?id=org.sopt.official)
+- Android Lead Developer/Maintainer - SOPT Official Android App [**ver 2.1.1**](https://play.google.com/store/apps/details?id=org.sopt.official)
 - Android Lead Developer - HACKER
-- Android Developer - FILL-IN : Film Camera D.P.&E. Search Application
-- Android Developer - SOPTAMP
-- Server Developer - Health-Food-Me
-- Android Lead Developer - Gachisaja : Neighbor Commerce Application
 - Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary
 - Android Lead Developer - BeMe : Self-Reflection Application
-- Android Dev Challenge using Jetpack Compose [WEEK1](https://github.com/l2hyunwoo/l2hyunwoo-compose-puppies)
-- Android Lead Developer - OUNCE : Cat Food Diary Application
 
 <h3> Open Source Projects </h4>
 
@@ -55,56 +43,52 @@
 - Contributor - [arrow-kt/arrow](https://github.com/arrow-kt/arrow)
 - Contributor - [DroidKnights 2023 Conference Applicaton](https://github.com/droidknights/DroidKnights2023_App)
 - Contributor - [DroidKaigi 2023 Conference Application](https://github.com/DroidKaigi/conference-app-2023)
-- Collaborator - [MovieCompose](https://github.com/Nanamare/MovieCompose)
-- Contributor - [reworkd - AgentGPT](https://github.com/reworkd/AgentGPT)
 - Contributor - [SSPullToRefresh](https://github.com/SimformSolutionsPvtLtd/SSPullToRefresh)
 - Contributor - [Jandi](https://github.com/techinpark/Jandi)
-- Contributor - [DroidKaigi 2022 Conference Application](https://github.com/DroidKaigi/conference-app-2022)
 - Contributor - [react-native-naver-login](https://github.com/react-native-seoul/react-native-naver-login)
 - Contributor - [react-native-kakao-login](https://github.com/react-native-seoul/react-native-kakao-login)
-- Contributor - [DroidKnights 2021 Conference Applicaton](https://github.com/droidknights/DroidKnights2021_App)
 
 
-### Experience
+## Experiences
 
-<h3> 2023 </h3>
+<h3> Careers </h3>
 
-- 2nd SOPT Makers - Android Chapter Lead
+- 2021.04 ~ 2023.07 : [Mathpresso](https://mathpresso.com/ko) 
+    - QANDA Android/React Native Developer
+
+<h3> Development Related</h3>
+
+- 2nd SOPT Makers - Android Chapter Lead (2023)
+- 1st SOPT Makers - Android Developer (2022)
+- 31st SOPT Android Development - **Part Leader** (2022)
+- 30th SOPT Server Development (2022)
+- Winner of Android Dev Challenge using Jetpack Compose(Week1) (2021)
+- 28th SOPT Android Development (2021)
+- 27th SOPT Android MVP (2021)
+- 27th SOPT Android Development (2020)
+- 26th SOPT Android Development (2020)
+
+<h3> Community Related </h3>
+
+<h4>2023</h4>
+
 - super.init(version = 4) - Speaker
   - 선언형 UI가 대세임을 "선언" 합니다. (Compose 학습부터 적용까지의 일대기) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/seoneonhyeong-uiga-daeseimeul-seoneonhabnida)
 - KotlinConf'23 Global in Songdo - Speaker
   - Functional Kotlin makes Kotlin functional - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/functional-kotlin-makes-kotlin-functional)
-- Lead of [GDSC(Google Developer Student Club) Konkuk University](https://github.com/gdsc-konkuk)
+- Lead(Founder) of [GDSC(Google Developer Student Club) Konkuk University 23-24](https://github.com/gdsc-konkuk)
 - [Kotlin User Groups](https://kotlinlang.org/community/user-groups/) Seoul Organizer
 - Mobile App Developer Conference - Speaker
   - Jetpack Compose - 실무에 발라보기 (Jetpack Compose in Practical Way) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/jetpack-compose-silmue-balrabogi)
 - GDG Devfest Songfo - Speaker
   - fun HelloKMP(): GladToMeetYou - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/fun-hellokmp-gladtomeetyou)
-- Kotlin User Groups Seoul Organizer
+ 
+<h4>2022</h4>
 
-<h3> 2022 </h3>
-
-- 1st SOPT Makers - Android Developer
-- 31st SOPT Android Development - **Part Leader**
-- 30th SOPT Server Development
 - SOPT Concert - Speaker
   - The Android Wears Material (Material Design) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/andeuneun-meotirieoleul-ibneunda)
 
-<h3> 2021 </h3>
-
-- 2021.04 ~ 2023.07 : [Team Qanda](https://mathpresso.com/ko) 
-    - QANDA Android/React Native Developer
-- Winner of Android Dev Challenge using Jetpack Compose(Week1)
-- 28th SOPT Android Development
-- 27th SOPT Android MVP
-
-<h3> 2020 </h3>
-
-- 27th SOPT Android Development
-- 26th SOPT Android Development
-
-
 ### Education
 
-2018 ~ : Konkuk University, Dept of Computer Science & Engineering
+2018 ~ 2025: Konkuk University, Dept of Computer Science & Engineering
 
