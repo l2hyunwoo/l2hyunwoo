@@ -70,9 +70,14 @@
 
 <h3> Community Related </h3>
 
+<h4>2024</h4>
+
+- super.init(version=5) - Speaker
+  - C.D.G로 모두와 함께 성장하기 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/cdgro-moduwa-hamgge-seongjanghagi)
+
 <h4>2023</h4>
 
-- super.init(version = 4) - Speaker
+- super.init(version=4) - Speaker
   - 선언형 UI가 대세임을 "선언" 합니다. (Compose 학습부터 적용까지의 일대기) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/seoneonhyeong-uiga-daeseimeul-seoneonhabnida)
 - KotlinConf'23 Global in Songdo - Speaker
   - Functional Kotlin makes Kotlin functional - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/functional-kotlin-makes-kotlin-functional)
