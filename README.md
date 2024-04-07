@@ -74,7 +74,8 @@
 
 - super.init(version=5) - Speaker
   - C.D.G로 모두와 함께 성장하기 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/cdgro-moduwa-hamgge-seongjanghagi)
-
+- GDSC Konkuk [kprintf](https://festa.io/events/4948) - Lead Organizer & Keynote Speaker
+  
 <h4>2023</h4>
 
 - super.init(version=4) - Speaker
