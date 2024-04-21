@@ -75,6 +75,7 @@
 - super.init(version=5) - Speaker
   - C.D.G로 모두와 함께 성장하기 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/cdgro-moduwa-hamgge-seongjanghagi)
 - GDSC Konkuk [kprintf](https://festa.io/events/4948) - Lead Organizer & Keynote Speaker
+- SOPT - [Make your own theme system with Jeptack Compose](https://florentine-legend-ffc.notion.site/Make-your-own-theme-system-with-Jeptack-Compose-2e94ad49aa9447fcbc588755250b2760?pvs=4)
   
 <h4>2023</h4>
 
