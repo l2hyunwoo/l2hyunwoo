@@ -29,14 +29,15 @@
 
 ## Projects
 
-- Android Developer/Product Owner - Pophory [**ver 1.2.0**](https://play.google.com/store/apps/details?id=com.teampophory.pophory)
-- Android Lead Developer/Maintainer - SOPT Official Android App [**ver 2.1.2**](https://play.google.com/store/apps/details?id=org.sopt.official)
+- Android Developer/Product Owner - Pophory [**ver 1.3.0**](https://play.google.com/store/apps/details?id=com.teampophory.pophory)
+- Android Lead Developer/Maintainer - SOPT Official Android App [**ver 2.2.1**](https://play.google.com/store/apps/details?id=org.sopt.official)
 - Android Lead Developer - HACKER
 - Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary
 - Android Lead Developer - BeMe : Self-Reflection Application
 
 <h3> Open Source Projects </h4>
 
+- Maintainer - [sopt-makers/sopt-android](https://github.com/sopt-makers/sopt-android)
 - Contributor - [skydoves/pokedex-compose](https://github.com/skydoves/Pokedex-compose)
 - Contributor - [onseok/peekaboo](https://github.com/onseok/peekaboo)
 - Maintainer - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
