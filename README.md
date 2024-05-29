@@ -74,6 +74,8 @@
 
 <h4>2024</h4>
 
+- DroidKnights 2024 - Speaker
+  - TextField 씹고 뜯고 맛보고 즐기고
 - super.init(version=5) - Speaker
   - C.D.G로 모두와 함께 성장하기 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/cdgro-moduwa-hamgge-seongjanghagi)
 - GDSC Konkuk [kprintf](https://festa.io/events/4948) - Lead Organizer & Keynote Speaker
