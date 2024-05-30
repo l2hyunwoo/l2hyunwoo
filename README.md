@@ -38,12 +38,13 @@
 <h3> Open Source Projects </h4>
 
 - Maintainer - [sopt-makers/sopt-android](https://github.com/sopt-makers/sopt-android)
+- Maintainer - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
+
+- Contributor - [DroidKnights Conference Applicaton](https://github.com/droidknights/DroidKnights)
 - Contributor - [skydoves/pokedex-compose](https://github.com/skydoves/Pokedex-compose)
 - Contributor - [onseok/peekaboo](https://github.com/onseok/peekaboo)
-- Maintainer - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
 - Contributor - [square/okhttp](https://github.com/square/okhttp)
 - Contributor - [arrow-kt/arrow](https://github.com/arrow-kt/arrow)
-- Contributor - [DroidKnights 2023 Conference Applicaton](https://github.com/droidknights/DroidKnights2023_App)
 - Contributor - [DroidKaigi 2023 Conference Application](https://github.com/DroidKaigi/conference-app-2023)
 - Contributor - [SSPullToRefresh](https://github.com/SimformSolutionsPvtLtd/SSPullToRefresh)
 - Contributor - [Jandi](https://github.com/techinpark/Jandi)
