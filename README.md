@@ -3,6 +3,15 @@
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=l2hyunwoo&count_private=true&show_icons=true&theme=dark" /></p>
 </a>
 <p align="center"><img src="https://github-profile-trophy.vercel.app?username=l2hyunwoo" /></p>
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/l2hyunwoo"
+  width="600"
+  height="300"
+/>
+</a>
+</p>
 
 
 ## Me?
