@@ -49,16 +49,16 @@
 - Maintainer - [sopt-makers/sopt-android](https://github.com/sopt-makers/sopt-android)
 - Maintainer - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
 
-- Contributor - [DroidKnights Conference Applicaton](https://github.com/droidknights/DroidKnights)
-- Contributor - [skydoves/pokedex-compose](https://github.com/skydoves/Pokedex-compose)
-- Contributor - [onseok/peekaboo](https://github.com/onseok/peekaboo)
-- Contributor - [square/okhttp](https://github.com/square/okhttp)
-- Contributor - [arrow-kt/arrow](https://github.com/arrow-kt/arrow)
-- Contributor - [DroidKaigi 2023 Conference Application](https://github.com/DroidKaigi/conference-app-2023)
-- Contributor - [SSPullToRefresh](https://github.com/SimformSolutionsPvtLtd/SSPullToRefresh)
-- Contributor - [Jandi](https://github.com/techinpark/Jandi)
-- Contributor - [react-native-naver-login](https://github.com/react-native-seoul/react-native-naver-login)
-- Contributor - [react-native-kakao-login](https://github.com/react-native-seoul/react-native-kakao-login)
++ Contributor - [DroidKnights Conference Applicaton](https://github.com/droidknights/DroidKnights)
++ Contributor - [skydoves/pokedex-compose](https://github.com/skydoves/Pokedex-compose)
++ Contributor - [onseok/peekaboo](https://github.com/onseok/peekaboo)
++ Contributor - [square/okhttp](https://github.com/square/okhttp)
++ Contributor - [arrow-kt/arrow](https://github.com/arrow-kt/arrow)
++ Contributor - [DroidKaigi 2023 Conference Application](https://github.com/DroidKaigi/conference-app-2023)
++ Contributor - [SSPullToRefresh](https://github.com/SimformSolutionsPvtLtd/SSPullToRefresh)
++ Contributor - [Jandi](https://github.com/techinpark/Jandi)
++ Contributor - [react-native-naver-login](https://github.com/react-native-seoul/react-native-naver-login)
++ Contributor - [react-native-kakao-login](https://github.com/react-native-seoul/react-native-kakao-login)
 
 
 ## Experiences
@@ -85,7 +85,7 @@
 <h4>2024</h4>
 
 - DroidKnights 2024 - Speaker
-  - TextField 씹고 뜯고 맛보고 즐기고
+  - TextField 씹고 뜯고 맛보고 즐기고 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/textfield-ssibgo-ddeudgo-masbogo-jeulgigo)
 - super.init(version=5) - Speaker
   - C.D.G로 모두와 함께 성장하기 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/cdgro-moduwa-hamgge-seongjanghagi)
 - GDSC Konkuk [kprintf](https://festa.io/events/4948) - Lead Organizer & Keynote Speaker
