@@ -84,6 +84,8 @@
 
 <h4>2024</h4>
 
+- DroidKaigi 2024 - Speaker
+  - Essential concepts to know when learning Declarative UI(선언형 UI를 배울때 알아둬야 하는 필수 개념들)
 - DroidKnights 2024 - Speaker
   - TextField 씹고 뜯고 맛보고 즐기고 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/textfield-ssibgo-ddeudgo-masbogo-jeulgigo)
 - super.init(version=5) - Speaker
