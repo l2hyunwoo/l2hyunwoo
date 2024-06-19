@@ -39,7 +39,7 @@
 ## Projects
 
 - Android Developer/Product Owner - Pophory [**ver 1.3.0**](https://play.google.com/store/apps/details?id=com.teampophory.pophory)
-- Android Lead Developer/Maintainer - SOPT Official Android App [**ver 2.3.0**](https://play.google.com/store/apps/details?id=org.sopt.official)
+- Android Lead Developer/Maintainer - SOPT Official Android App [**ver 2.3.1**](https://play.google.com/store/apps/details?id=org.sopt.official)
 - Android Lead Developer - HACKER
 - Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary
 - Android Lead Developer - BeMe : Self-Reflection Application
