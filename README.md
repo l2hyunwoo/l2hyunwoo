@@ -36,7 +36,14 @@
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-## Projects
+### Careers
+
+- 2024.07 ~ : [VivaRepublica(Toss)](https://toss.im/)
+  - Toss Core React Native Platform Android Developer
+- 2021.04 ~ 2023.07 : [Mathpresso](https://mathpresso.com/ko) 
+    - QANDA Android/React Native Developer
+
+### Projects
 
 - Android Developer/Product Owner - Pophory [**ver 1.3.0**](https://play.google.com/store/apps/details?id=com.teampophory.pophory)
 - Android Lead Developer/Maintainer - SOPT Official Android App [**ver 2.3.1**](https://play.google.com/store/apps/details?id=org.sopt.official)
@@ -62,13 +69,6 @@
 
 
 ## Experiences
-
-<h3> Careers </h3>
-
-- 2024.07 ~ : [VivaRepublica(Toss)](https://toss.im/)
-  - Toss Core React Native Platform Android Developer
-- 2021.04 ~ 2023.07 : [Mathpresso](https://mathpresso.com/ko) 
-    - QANDA Android/React Native Developer
 
 <h3> Development Related</h3>
 
