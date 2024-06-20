@@ -65,6 +65,8 @@
 
 <h3> Careers </h3>
 
+- 2024.07 ~ : [VivaRepublica(Toss)](https://toss.im/)
+  - Toss Core React Native Platform Android Developer
 - 2021.04 ~ 2023.07 : [Mathpresso](https://mathpresso.com/ko) 
     - QANDA Android/React Native Developer
 
