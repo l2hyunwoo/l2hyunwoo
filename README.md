@@ -1,4 +1,4 @@
-<h1 align="center"><b>👋 It's Nunu (HyunWoo Lee)</b></h1>
+<h1 align="center"><b>👋 It's HyunWoo Lee(Nunu Lee)</b></h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=l2hyunwoo&count_private=true&show_icons=true&theme=dark" /></p>
 </a>
@@ -38,7 +38,7 @@
 
 ### Careers
 
-- 2024.07 ~ : [VivaRepublica(Toss)](https://toss.im/)
+- 2024.07 ~ : [Viva Republica(Toss)](https://toss.im/)
   - Android Developer, React Native Platform Team
 - 2021.04 ~ 2023.07 : [Mathpresso](https://mathpresso.com/ko) 
     - QANDA Android/React Native Developer
@@ -91,10 +91,12 @@
 - KotlinConf'24 Global in South Korea - Organizer & Keynote Speaker
 - DroidKnights 2024 - Speaker
   - TextField 씹고 뜯고 맛보고 즐기고 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/textfield-ssibgo-ddeudgo-masbogo-jeulgigo)
+
 - super.init(version=5) - Speaker
   - C.D.G로 모두와 함께 성장하기 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/cdgro-moduwa-hamgge-seongjanghagi)
 - GDSC Konkuk [kprintf](https://festa.io/events/4948) - Lead Organizer & Keynote Speaker
 - SOPT - [Make your own theme system with Jeptack Compose](https://florentine-legend-ffc.notion.site/Make-your-own-theme-system-with-Jeptack-Compose-2e94ad49aa9447fcbc588755250b2760?pvs=4)
+- SOPT - [Compose의 상태관리](https://florentine-legend-ffc.notion.site/Compose-01bb6460694a4e4c8f92a939f87d76dc?pvs=4)
   
 <h4>2023</h4>
 
