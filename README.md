@@ -86,6 +86,7 @@
 
 <h4>2024</h4>
 
+- Google Developer Group(GDG) Songdo - Organizer
 - DroidKaigi 2024 - Speaker
   - Essential concepts to know when learning Declarative UI(선언형 UI를 배울때 알아둬야 하는 필수 개념들)
 - I/O Extended Android in Korea 2024 - Speaker
@@ -106,12 +107,13 @@
   - 선언형 UI가 대세임을 "선언" 합니다. (Compose 학습부터 적용까지의 일대기) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/seoneonhyeong-uiga-daeseimeul-seoneonhabnida)
 - KotlinConf'23 Global in Songdo - Speaker
   - Functional Kotlin makes Kotlin functional - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/functional-kotlin-makes-kotlin-functional)
-- Lead(Founder) of [GDSC(Google Developer Student Club) Konkuk University 23-24](https://github.com/gdsc-konkuk)
-- [Kotlin User Groups](https://kotlinlang.org/community/user-groups/) Seoul Organizer
 - Mobile App Developer Conference - Speaker
   - Jetpack Compose - 실무에 발라보기 (Jetpack Compose in Practical Way) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/jetpack-compose-silmue-balrabogi)
 - GDG Devfest Songfo - Speaker
   - fun HelloKMP(): GladToMeetYou - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/fun-hellokmp-gladtomeetyou)
+- Lead(Founder) of [GDSC(Google Developer Student Club) Konkuk University 23-24](https://github.com/gdsc-konkuk)
+- [Kotlin User Groups](https://kotlinlang.org/community/user-groups/) Seoul Organizer
+
  
 <h4>2022</h4>
 
