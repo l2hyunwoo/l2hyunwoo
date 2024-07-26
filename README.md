@@ -89,6 +89,8 @@
 - Google Developer Group(GDG) Songdo - Organizer
 - DroidKaigi 2024 - Speaker
   - Essential concepts to know when learning Declarative UI(선언형 UI를 배울때 알아둬야 하는 필수 개념들)
+- HYPER-APP 2024 (KSDC) - Speaker
+  - React Native under the hood
 - I/O Extended Android in Korea 2024 - Speaker
   - 유연한 Composable 설계 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/yuyeonhan-composable-seolgye)
 - KotlinConf'24 Global in South Korea - Organizer & Keynote Speaker
