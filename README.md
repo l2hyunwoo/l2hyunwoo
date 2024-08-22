@@ -19,6 +19,7 @@
 <a href="https://medium.com/@l2hyunwoo"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@l2hyunwoo"/></a>
 <a href="https://www.instagram.com/l2hyunwoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/l2hyunwoo/"/></a>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyunwoo-lee-0412/)](https://www.linkedin.com/in/hyunwoo-lee-0412/) 
+<a href="https://florentine-legend-ffc.notion.site/HyunWoo-Lee-2a39afea7c8046cead1e32166674ac38"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 
 ## Profile
 
