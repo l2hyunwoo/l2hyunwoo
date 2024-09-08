@@ -5,12 +5,12 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app?username=l2hyunwoo" /></p>
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/l2hyunwoo"
-  width="600"
-  height="300"
-/>
-</a>
+    <img
+      src="https://render.gitanimals.org/farms/l2hyunwoo"
+      width="600"
+      height="300"
+    />
+  </a>
 </p>
 
 
@@ -40,9 +40,11 @@
 ### Careers
 
 - 2024.07 ~ : [Viva Republica(Toss)](https://toss.im/)
-  - Android Developer, React Native Platform Team
+  - Android Developer, Android Platform Team
+  - Frontend Platform Developer, Frontend Platform Team
 - 2021.04 ~ 2023.07 : [Mathpresso](https://mathpresso.com/ko) 
-    - QANDA Android/React Native Developer
+  - QANDA, Android Developer
+  - QANDA Tutor, React Native Developer
 
 ### Projects
 
@@ -57,6 +59,7 @@
 - Maintainer - [sopt-makers/sopt-android](https://github.com/sopt-makers/sopt-android)
 - Maintainer - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
 
++ Conrtibutor - [skydoves/firebase-android-ktx](https://github.com/skydoves/firebase-android-ktx)
 + Contributor - [DroidKnights Conference Applicaton](https://github.com/droidknights/DroidKnights)
 + Contributor - [skydoves/pokedex-compose](https://github.com/skydoves/Pokedex-compose)
 + Contributor - [onseok/peekaboo](https://github.com/onseok/peekaboo)
@@ -73,6 +76,7 @@
 
 <h3> Development Related</h3>
 
+- 5th SOPT Makers - Android Developer (2024)
 - 2nd SOPT Makers - Android Chapter Lead (2023)
 - 1st SOPT Makers - Android Developer (2022)
 - 31st SOPT Android Development - **Part Leader** (2022)
