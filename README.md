@@ -92,6 +92,8 @@
 <h4>2024</h4>
 
 - Google Developer Group(GDG) Songdo - Organizer
+- DevFest Android in Korea 2024 - Speaker
+  - 선언형 UI를 학습할 때 알아둬야하는 키워드들 (ver.한국어)
 - DroidKaigi 2024 - Speaker
   - Essential concepts to know when learning Declarative UI(선언형 UI를 배울때 알아둬야 하는 필수 개념들) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/essential-concepts-to-know-when-learning-declarative-ui)
 - HYPER-APP 2024 (KSDC) - Speaker
