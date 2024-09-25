@@ -58,11 +58,11 @@
 
 - Maintainer - [sopt-makers/sopt-android](https://github.com/sopt-makers/sopt-android)
 - Maintainer - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
+- Maintainer - [onseok/peekaboo](https://github.com/onseok/peekaboo)
 
 + Conrtibutor - [skydoves/firebase-android-ktx](https://github.com/skydoves/firebase-android-ktx)
 + Contributor - [DroidKnights Conference Applicaton](https://github.com/droidknights/DroidKnights)
 + Contributor - [skydoves/pokedex-compose](https://github.com/skydoves/Pokedex-compose)
-+ Contributor - [onseok/peekaboo](https://github.com/onseok/peekaboo)
 + Contributor - [square/okhttp](https://github.com/square/okhttp)
 + Contributor - [arrow-kt/arrow](https://github.com/arrow-kt/arrow)
 + Contributor - [DroidKaigi 2023 Conference Application](https://github.com/DroidKaigi/conference-app-2023)
