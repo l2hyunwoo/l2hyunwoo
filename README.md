@@ -41,7 +41,7 @@
 
 - 2024.07 ~ : [Viva Republica(Toss)](https://toss.im/)
   - Android Developer, Android Platform Team
-  - Frontend Platform Developer, Frontend Platform Team
+  - React Native Platform Developer, Frontend Platform Team
 - 2021.04 ~ 2023.07 : [Mathpresso](https://mathpresso.com/ko) 
   - QANDA, Android Developer
   - QANDA Tutor, React Native Developer
@@ -60,6 +60,8 @@
 - Maintainer - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
 - Maintainer - [onseok/peekaboo](https://github.com/onseok/peekaboo)
 
++ Contributor - [facebook/react-native-website](https://github.com/facebook/react-native-website)
++ Contributor - [facebook/react-native](https://github.com/facebook/react-native)
 + Conrtibutor - [skydoves/firebase-android-ktx](https://github.com/skydoves/firebase-android-ktx)
 + Contributor - [DroidKnights Conference Applicaton](https://github.com/droidknights/DroidKnights)
 + Contributor - [skydoves/pokedex-compose](https://github.com/skydoves/Pokedex-compose)
