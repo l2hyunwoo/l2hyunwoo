@@ -40,8 +40,8 @@
 ### Careers
 
 - 2024.07 ~ : [Viva Republica(Toss)](https://toss.im/)
-  - Android Developer, Android Platform Team
-  - React Native Platform Developer, Frontend Platform Team
+  - Android Platform Team, Client Platform Tribe
+  - React Native Framework Team, Client Platform Tribe
 - 2021.04 ~ 2023.07 : [Mathpresso](https://mathpresso.com/ko) 
   - QANDA, Android Developer
   - QANDA Tutor, React Native Developer
@@ -76,7 +76,7 @@
 
 ## Experiences
 
-<h3> Development Related</h3>
+<h3> Development Related </h3>
 
 - 5th SOPT Makers - Android Developer (2024)
 - 2nd SOPT Makers - Android Chapter Lead (2023)
@@ -91,39 +91,44 @@
 
 <h3> Community Related </h3>
 
+<h4>Organizer</h4>
+
+- 2025.01 ~ : GDG(Google Developer Group) Korea Android Organizer
+- 2024.07 ~ 2024.12 : GDG(Google Developer Group) Incheon Organizer
+- 2023.07 ~ : Kotlin User Groups Seoul Organizer
+- 2023.07 ~ 2024.05 : GDSC(Google Developer Student Club) Konkuk University Lead
+
+<h4>Speaker</h4>
 <h4>2024</h4>
 
-- Google Developer Group(GDG) Songdo - Organizer
-- DevFest Android in Korea 2024 - Speaker
+- DevFest Android in Korea 2024
   - 선언형 UI를 학습할 때 알아둬야하는 키워드들 (ver.한국어) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/seoneonhyeong-uireul-hagseubhal-ddae-aladweoyahaneun-kiweodeudeul)
-- DroidKaigi 2024 - Speaker
+- DroidKaigi 2024
   - Essential concepts to know when learning Declarative UI(선언형 UI를 배울때 알아둬야 하는 필수 개념들) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/essential-concepts-to-know-when-learning-declarative-ui)
-- HYPER-APP 2024 (KSDC) - Speaker
+- HYPER-APP 2024 (KSDC)
   - React Native under the hood - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/react-native-under-the-hood)
-- I/O Extended Android in Korea 2024 - Speaker
+- I/O Extended Android in Korea 2024
   - 유연한 Composable 설계 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/yuyeonhan-composable-seolgye)
-- KotlinConf'24 Global in South Korea - Organizer & Keynote Speaker
+- KotlinConf'24 Global in South Korea
   - Keynote - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/kotlinconf-2024-global-in-south-korea-keynote)
-- DroidKnights 2024 - Speaker
+- DroidKnights 2024
   - TextField 씹고 뜯고 맛보고 즐기고 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/textfield-ssibgo-ddeudgo-masbogo-jeulgigo)
-- super.init(version=5) - Speaker
+- super.init(version=5)
   - C.D.G로 모두와 함께 성장하기 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/cdgro-moduwa-hamgge-seongjanghagi)
-- GDSC Konkuk [kprintf](https://festa.io/events/4948) - Lead Organizer & Keynote Speaker
+- GDSC Konkuk [kprintf](https://festa.io/events/4948)
 - SOPT - [Make your own theme system with Jeptack Compose](https://florentine-legend-ffc.notion.site/Make-your-own-theme-system-with-Jeptack-Compose-2e94ad49aa9447fcbc588755250b2760?pvs=4)
 - SOPT - [Compose의 상태관리](https://florentine-legend-ffc.notion.site/Compose-01bb6460694a4e4c8f92a939f87d76dc?pvs=4)
   
 <h4>2023</h4>
 
-- super.init(version=4) - Speaker
+- super.init(version=4)
   - 선언형 UI가 대세임을 "선언" 합니다. (Compose 학습부터 적용까지의 일대기) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/seoneonhyeong-uiga-daeseimeul-seoneonhabnida)
-- KotlinConf'23 Global in Songdo - Speaker
+- KotlinConf'23 Global in Songdo
   - Functional Kotlin makes Kotlin functional - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/functional-kotlin-makes-kotlin-functional)
-- Mobile App Developer Conference - Speaker
+- Mobile App Developer Conference
   - Jetpack Compose - 실무에 발라보기 (Jetpack Compose in Practical Way) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/jetpack-compose-silmue-balrabogi)
-- GDG Devfest Songfo - Speaker
+- GDG Devfest Songdo
   - fun HelloKMP(): GladToMeetYou - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/fun-hellokmp-gladtomeetyou)
-- Lead(Founder) of [GDSC(Google Developer Student Club) Konkuk University 23-24](https://github.com/gdsc-konkuk)
-- [Kotlin User Groups](https://kotlinlang.org/community/user-groups/) Seoul Organizer
 
  
 <h4>2022</h4>
