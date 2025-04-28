@@ -99,6 +99,11 @@
 - 2023.07 ~ 2024.05 : GDSC(Google Developer Student Club) Konkuk University Lead
 
 <h4>Speaker</h4>
+<h4>2025</h4>
+
+- Build with AI on Android 2025
+  - 파급효과: From AI to Android Development - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/pageubhyogwa-from-ai-to-android-development)
+
 <h4>2024</h4>
 
 - DevFest Android in Korea 2024
