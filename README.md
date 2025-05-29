@@ -46,16 +46,9 @@
   - QANDA, Android Developer
   - QANDA Tutor, React Native Developer
 
-### Projects
-
-- Android Developer/Product Owner - Pophory [**ver 1.3.0**](https://play.google.com/store/apps/details?id=com.teampophory.pophory)
-- Android Lead Developer/Maintainer - SOPT Official Android App [**ver 2.3.1**](https://play.google.com/store/apps/details?id=org.sopt.official)
-- Android Lead Developer - HACKER
-- Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary
-- Android Lead Developer - BeMe : Self-Reflection Application
-
 <h3> Open Source Projects </h4>
 
+- Maintainer - [toss/granite](https://github.com/toss/granite)
 - Maintainer - [sopt-makers/sopt-android](https://github.com/sopt-makers/sopt-android)
 - Maintainer - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
 - Maintainer - [onseok/peekaboo](https://github.com/onseok/peekaboo)
@@ -67,27 +60,21 @@
 + Contributor - [skydoves/pokedex-compose](https://github.com/skydoves/Pokedex-compose)
 + Contributor - [square/okhttp](https://github.com/square/okhttp)
 + Contributor - [arrow-kt/arrow](https://github.com/arrow-kt/arrow)
-+ Contributor - [DroidKaigi 2023 Conference Application](https://github.com/DroidKaigi/conference-app-2023)
++ Contributor - [DroidKaigi Conference Applications](https://github.com/DroidKaigi)
 + Contributor - [SSPullToRefresh](https://github.com/SimformSolutionsPvtLtd/SSPullToRefresh)
 + Contributor - [Jandi](https://github.com/techinpark/Jandi)
 + Contributor - [react-native-naver-login](https://github.com/react-native-seoul/react-native-naver-login)
 + Contributor - [react-native-kakao-login](https://github.com/react-native-seoul/react-native-kakao-login)
 
+### Projects
+
+- Android Lead Developer/Maintainer - SOPT Official Android App
+- Android Developer/Product Owner - Pophory
+- Android Lead Developer - HACKER
+- Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary
+- Android Lead Developer - BeMe : Self-Reflection Application
 
 ## Experiences
-
-<h3> Development Related </h3>
-
-- 5th SOPT Makers - Android Developer (2024)
-- 2nd SOPT Makers - Android Chapter Lead (2023)
-- 1st SOPT Makers - Android Developer (2022)
-- 31st SOPT Android Development - **Part Leader** (2022)
-- 30th SOPT Server Development (2022)
-- Winner of Android Dev Challenge using Jetpack Compose(Week1) (2021)
-- 28th SOPT Android Development (2021)
-- 27th SOPT Android MVP (2021)
-- 27th SOPT Android Development (2020)
-- 26th SOPT Android Development (2020)
 
 <h3> Community Related </h3>
 
@@ -140,6 +127,19 @@
 
 - SOPT Concert - Speaker
   - The Android Wears Material (Material Design) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/andeuneun-meotirieoleul-ibneunda)
+
+<h3> Development Related </h3>
+
+- 5th SOPT Makers - Android Developer (2024)
+- 2nd SOPT Makers - Android Chapter Lead (2023)
+- 1st SOPT Makers - Android Developer (2022)
+- 31st SOPT Android Development - **Part Leader** (2022)
+- 30th SOPT Server Development (2022)
+- Winner of Android Dev Challenge using Jetpack Compose(Week1) (2021)
+- 28th SOPT Android Development (2021)
+- 27th SOPT Android MVP (2021)
+- 27th SOPT Android Development (2020)
+- 26th SOPT Android Development (2020)
 
 ### Education
 
