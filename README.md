@@ -90,6 +90,10 @@
 
 - Build with AI on Android 2025
   - 파급효과: From AI to Android Development - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/pageubhyogwa-from-ai-to-android-development)
+- I/O Extended Incheon 2025
+  - Understanding Kotlin Multiplatform
+- DroidKaigi 2025
+  - How Android Uses Data Structures Behind the Scenes
 
 <h4>2024</h4>
 
