@@ -27,10 +27,12 @@
 
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img alt="KMP&CMP" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin(Compose)+Multiplatform&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label="/>
+</p>
+<p>
+  <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
   <img alt="SwiftUI" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  <img alt="KMP(Kotlin MultiPlatform)" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin+Multiplatform&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label="/>
 </p>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -134,6 +136,7 @@
 
 <h3> Development Related </h3>
 
+- [36th SOPT Appjam](https://event-us.kr/sopt/event/107618) - Mentor (Android Development)
 - 5th SOPT Makers - Android Developer (2024)
 - 2nd SOPT Makers - Android Chapter Lead (2023)
 - 1st SOPT Makers - Android Developer (2022)
