@@ -51,6 +51,7 @@
 <h3> Open Source Projects </h4>
 
 - Maintainer - [toss/granite](https://github.com/toss/granite)
+- Maintainer - [skydoves/Cloudy](https://github.com/skydoves/Cloudy)
 - Maintainer - [sopt-makers/sopt-android](https://github.com/sopt-makers/sopt-android)
 - Maintainer - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
 - Maintainer - [onseok/peekaboo](https://github.com/onseok/peekaboo)
