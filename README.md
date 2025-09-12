@@ -96,7 +96,7 @@
 - I/O Extended Incheon/Busan 2025
   - Understanding Kotlin Multiplatform - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/understanding-kotlin-multiplatform)
 - DroidKaigi 2025
-  - How Android Uses Data Structures Behind the Scenes
+  - How Android Uses Data Structures Behind the Scenes - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/how-android-uses-data-structures-behind-the-scenes)
 
 <h4>2024</h4>
 
