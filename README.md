@@ -96,14 +96,18 @@
 - I/O Extended Incheon/Busan 2025
   - Understanding Kotlin Multiplatform - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/understanding-kotlin-multiplatform)
 - DroidKaigi 2025
-  - How Android Uses Data Structures Behind the Scenes - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/how-android-uses-data-structures-behind-the-scenes)
+  - How Android Uses Data Structures Behind the Scenes
+    + [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/how-android-uses-data-structures-behind-the-scenes)
+    + [Video](https://youtu.be/6Y8ir1WE-UU?si=tncex1JT985wBVhm)
 
 <h4>2024</h4>
 
 - DevFest Android in Korea 2024
   - 선언형 UI를 학습할 때 알아둬야하는 키워드들 (ver.한국어) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/seoneonhyeong-uireul-hagseubhal-ddae-aladweoyahaneun-kiweodeudeul)
 - DroidKaigi 2024
-  - Essential concepts to know when learning Declarative UI(선언형 UI를 배울때 알아둬야 하는 필수 개념들) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/essential-concepts-to-know-when-learning-declarative-ui)
+  - Essential concepts to know when learning Declarative UI(선언형 UI를 배울때 알아둬야 하는 필수 개념들)
+    + [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/essential-concepts-to-know-when-learning-declarative-ui)
+    + [Video](https://youtu.be/txaf9F0d-aE?si=MsVnLcEAf_FcNtUv)
 - HYPER-APP 2024 (KSDC)
   - React Native under the hood - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/react-native-under-the-hood)
 - I/O Extended Android in Korea 2024
