@@ -115,12 +115,11 @@
 - KotlinConf'24 Global in South Korea
   - Keynote - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/kotlinconf-2024-global-in-south-korea-keynote)
 - DroidKnights 2024
-  - TextField 씹고 뜯고 맛보고 즐기고 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/textfield-ssibgo-ddeudgo-masbogo-jeulgigo)
+  - TextField 씹고 뜯고 맛보고 즐기고
+    + [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/textfield-ssibgo-ddeudgo-masbogo-jeulgigo)
+    + [Video](https://youtu.be/slliYu30BSs?si=a3rau7Nn-4sHUQT3)
 - super.init(version=5)
   - C.D.G로 모두와 함께 성장하기 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/cdgro-moduwa-hamgge-seongjanghagi)
-- GDSC Konkuk [kprintf](https://festa.io/events/4948)
-- SOPT - [Make your own theme system with Jeptack Compose](https://florentine-legend-ffc.notion.site/Make-your-own-theme-system-with-Jeptack-Compose-2e94ad49aa9447fcbc588755250b2760?pvs=4)
-- SOPT - [Compose의 상태관리](https://florentine-legend-ffc.notion.site/Compose-01bb6460694a4e4c8f92a939f87d76dc?pvs=4)
   
 <h4>2023</h4>
 
@@ -132,12 +131,6 @@
   - Jetpack Compose - 실무에 발라보기 (Jetpack Compose in Practical Way) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/jetpack-compose-silmue-balrabogi)
 - GDG Devfest Songdo
   - fun HelloKMP(): GladToMeetYou - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/fun-hellokmp-gladtomeetyou)
-
- 
-<h4>2022</h4>
-
-- SOPT Concert - Speaker
-  - The Android Wears Material (Material Design) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/andeuneun-meotirieoleul-ibneunda)
 
 <h3> Development Related </h3>
 
