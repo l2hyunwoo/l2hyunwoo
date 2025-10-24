@@ -54,8 +54,8 @@
 - Maintainer - [skydoves/Cloudy](https://github.com/skydoves/Cloudy)
 - Maintainer - [sopt-makers/sopt-android](https://github.com/sopt-makers/sopt-android)
 - Maintainer - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
-- Maintainer - [onseok/peekaboo](https://github.com/onseok/peekaboo)
 
++ Contributor - [ZacSweers/metro](https://github.com/ZacSweers/metro)
 + Contributor - [facebook/react-native-website](https://github.com/facebook/react-native-website)
 + Contributor - [facebook/react-native](https://github.com/facebook/react-native)
 + Conrtibutor - [skydoves/firebase-android-ktx](https://github.com/skydoves/firebase-android-ktx)
