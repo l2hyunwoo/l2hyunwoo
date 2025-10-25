@@ -50,6 +50,7 @@
 
 <h3> Open Source Projects </h4>
 
+- Maintainer - [l2hyunwoo/react-native-nitro-device-info](https://github.com/l2hyunwoo/react-native-nitro-device-info)
 - Maintainer - [toss/granite](https://github.com/toss/granite)
 - Maintainer - [skydoves/Cloudy](https://github.com/skydoves/Cloudy)
 - Maintainer - [sopt-makers/sopt-android](https://github.com/sopt-makers/sopt-android)
