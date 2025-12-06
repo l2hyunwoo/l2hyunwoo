@@ -105,6 +105,10 @@
   - How Android Uses Data Structures Behind the Scenes
     + [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/how-android-uses-data-structures-behind-the-scenes)
     + [Video](https://youtu.be/6Y8ir1WE-UU?si=tncex1JT985wBVhm)
+- GDG Devfest Incheon 2025
+  - Metro로 KMP에서 의존성 주입 사용하기 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/navigating-dependency-injection-with-metro)
+    + Original: [Navigating Dependency Injection with Metro - Zac Sweers](https://speakerdeck.com/zacsweers/navigating-dependency-injection-with-metro) 
+    + Thanks for great contents, Zac Sweers!
 
 <h4>2024</h4>
 
