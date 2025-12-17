@@ -1,17 +1,5 @@
 <h1 align="center"><b>👋 It's HyunWoo Lee(Nunu Lee)</b></h1>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=l2hyunwoo&count_private=true&show_icons=true&theme=dark" /></p>
-</a>
-<p align="center"><img src="https://github-profile-trophy.vercel.app?username=l2hyunwoo" /></p>
-<p align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/l2hyunwoo"
-      width="600"
-      height="300"
-    />
-  </a>
-</p>
+
 
 
 ## Me?
@@ -70,18 +58,9 @@
 + Contributor - [square/okhttp](https://github.com/square/okhttp)
 + Contributor - [arrow-kt/arrow](https://github.com/arrow-kt/arrow)
 + Contributor - [DroidKaigi Conference Applications](https://github.com/DroidKaigi)
-+ Contributor - [SSPullToRefresh](https://github.com/SimformSolutionsPvtLtd/SSPullToRefresh)
 + Contributor - [Jandi](https://github.com/techinpark/Jandi)
 + Contributor - [react-native-naver-login](https://github.com/react-native-seoul/react-native-naver-login)
 + Contributor - [react-native-kakao-login](https://github.com/react-native-seoul/react-native-kakao-login)
-
-### Projects
-
-- Android Lead Developer/Maintainer - SOPT Official Android App
-- Android Developer/Product Owner - Pophory
-- Android Lead Developer - HACKER
-- Android Lead Developer - CatchMe : Metaverse, Interest Based Character Management Diary
-- Android Lead Developer - BeMe : Self-Reflection Application
 
 ## Experiences
 
@@ -159,4 +138,14 @@
 ### Education
 
 2018 ~ 2025: Konkuk University, Dept of Computer Science & Engineering
+
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/l2hyunwoo"
+      width="600"
+      height="300"
+    />
+  </a>
+</p>
 
