@@ -43,6 +43,7 @@
 - Maintainer - [l2hyunwoo/react-native-nitro-cookies](https://github.com/l2hyunwoo/react-native-nitro-cookies)
 - Maintainer - [toss/granite](https://github.com/toss/granite)
 - Maintainer - [skydoves/Cloudy](https://github.com/skydoves/Cloudy)
+- Maintainer - [skydoves/colorpicker-compose](https://github.com/skydoves/colorpicker-compose)
 - Maintainer - [sopt-makers/sopt-android](https://github.com/sopt-makers/sopt-android)
 - Maintainer - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
 
