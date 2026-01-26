@@ -126,6 +126,7 @@
 
 <h3> Development Related </h3>
 
+- [37th SOPT Appjam](https://event-us.kr/sopt/event/119372) - Mentor (Android Development)
 - [36th SOPT Appjam](https://event-us.kr/sopt/event/107618) - Mentor (Android Development)
 - 5th SOPT Makers - Android Developer (2024)
 - 2nd SOPT Makers - Android Chapter Lead (2023)
