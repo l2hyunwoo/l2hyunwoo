@@ -78,6 +78,12 @@
 - 2023.07 ~ 2024.05 : GDSC(Google Developer Student Club) Konkuk University Lead
 
 <h4>Speaker</h4>
+
+<h4>2026</h4>
+
+- Build with AI on Android 2026
+  - Agent, Koog Koog 하세요 - Kotlin으로 만드는 AI 코드리뷰 Agent
+
 <h4>2025</h4>
 
 - Build with AI on Android 2025
