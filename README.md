@@ -85,6 +85,8 @@
   - Agent, Koog Koog 하세요 - Kotlin으로 만드는 AI 코드리뷰 Agent - [CodeLab](https://gdgand.github.io/koog_codelab/index.html#0)
 - 2026 Build with AI: Hands-on Campus (GDG Campus Korea)
   - 5웗부터 과제는 에이전트에게 맡기고 대학생활 즐겨보기(feat. Kotlin) - [CodeLab](https://l2hyunwoo.github.io/koog-practice-univ/codelab/koog-study-buddy-agent)
+- COSCUP 2026 X Ubucon Asis (Taiwan)
+  - Jindong: Introducing Declarative Haptics in Jetpack Compose
 
 <h4>2025</h4>
 
