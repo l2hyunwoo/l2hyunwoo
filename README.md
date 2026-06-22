@@ -40,7 +40,6 @@
 
 - Maintainer - [l2hyunwoo/react-native-buffered-blob](https://github.com/l2hyunwoo/react-native-buffered-blob)
 - Maintainer - [compose-jindong/jindong](https://github.com/compose-jindong/jindong)
-- Maintainer - [l2hyunwoo/compose-camera](https://github.com/l2hyunwoo/compose-camera)
 - Maintainer - [l2hyunwoo/react-native-nitro-device-info](https://github.com/l2hyunwoo/react-native-nitro-device-info)
 - Maintainer - [l2hyunwoo/react-native-nitro-cookies](https://github.com/l2hyunwoo/react-native-nitro-cookies)
 - Maintainer - [toss/granite](https://github.com/toss/granite)
