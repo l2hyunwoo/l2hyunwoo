@@ -32,24 +32,20 @@
 
 ### Careers
 
-- 2024.07 ~ : [Viva Republica(Toss)](https://toss.im/)
-  - Android Platform Team, Client Platform Tribe
-  - React Native Framework Team, Client Platform Tribe
+- 2024.07 ~ : [Viva Republica(Toss)](https://toss.im/career/article/rn_framework_2511)
+  - Android Engineer, React Native Framework Team, Client Platform Tribe
 - 2021.04 ~ 2023.07 : [Mathpresso](https://mathpresso.com/ko) 
   - QANDA, Android Developer
   - QANDA Tutor, React Native Developer
 
 <h3> Open Source Projects </h4>
 
-- Maintainer - [l2hyunwoo/react-native-buffered-blob](https://github.com/l2hyunwoo/react-native-buffered-blob)
 - Maintainer - [compose-jindong/jindong](https://github.com/compose-jindong/jindong)
 - Maintainer - [l2hyunwoo/react-native-nitro-device-info](https://github.com/l2hyunwoo/react-native-nitro-device-info)
 - Maintainer - [l2hyunwoo/react-native-nitro-cookies](https://github.com/l2hyunwoo/react-native-nitro-cookies)
+- Maintainer - [l2hyunwoo/react-native-buffered-blob](https://github.com/l2hyunwoo/react-native-buffered-blob)
 - Maintainer - [toss/granite](https://github.com/toss/granite)
 - Maintainer - [skydoves/Cloudy](https://github.com/skydoves/Cloudy)
-- Maintainer - [skydoves/colorpicker-compose](https://github.com/skydoves/colorpicker-compose)
-- Maintainer - [sopt-makers/sopt-android](https://github.com/sopt-makers/sopt-android)
-- Maintainer - [MobileAppDeveloperConference/android](https://github.com/MobileAppDeveloperConference/android)
 
 + Contributor - [android/cahier](https://github.com/android/cahier)
 + Contributor - [mrousavy/nitro](https://github.com/mrousavy/nitro)
@@ -64,9 +60,6 @@
 + Contributor - [square/okhttp](https://github.com/square/okhttp)
 + Contributor - [arrow-kt/arrow](https://github.com/arrow-kt/arrow)
 + Contributor - [DroidKaigi Conference Applications](https://github.com/DroidKaigi)
-+ Contributor - [Jandi](https://github.com/techinpark/Jandi)
-+ Contributor - [react-native-naver-login](https://github.com/react-native-seoul/react-native-naver-login)
-+ Contributor - [react-native-kakao-login](https://github.com/react-native-seoul/react-native-kakao-login)
 
 ## Experiences
 
@@ -74,6 +67,7 @@
 
 <h4>Organizer</h4>
 
+- 2026.02 ~ : CodeRabbit Korea User Group Organizer
 - 2025.01 ~ : GDG(Google Developer Group) Korea Android Organizer
 - 2024.07 ~ 2024.12 : GDG(Google Developer Group) Incheon Organizer
 - 2023.07 ~ : Kotlin User Groups Seoul Organizer
