@@ -82,7 +82,7 @@
 - 2026 Build with AI: Hands-on Campus (GDG Campus Korea)
   - 5웗부터 과제는 에이전트에게 맡기고 대학생활 즐겨보기(feat. Kotlin) - [CodeLab](https://l2hyunwoo.github.io/koog-practice-univ/codelab/koog-study-buddy-agent)
 - COSCUP 2026 X Ubucon Asis (Taiwan)
-  - Jindong: Introducing Declarative Haptics in Jetpack Compose
+  - Jindong: Introducing Declarative Haptics in Jetpack Compose - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/jindong-introducing-declarative-haptics-in-jetpack-compose)
 
 <h4>2025</h4>
 
