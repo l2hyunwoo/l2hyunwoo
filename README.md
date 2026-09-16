@@ -85,6 +85,8 @@
   - Jindong: Introducing Declarative Haptics in Jetpack Compose - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/jindong-introducing-declarative-haptics-in-jetpack-compose)
 - FEConf 2026
   - 우리의 Nitro Module은 당신의 Native Module보다 아름답다
+- DroidKnights 2026
+  - 선언형 햅틱 라이브러리 "진동"을 소개합니다
 
 <h4>2025</h4>
 
