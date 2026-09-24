@@ -1,86 +1,58 @@
-<h1 align="center"><b>👋 It's HyunWoo Lee(Nunu Lee)</b></h1>
+# HyunWoo Lee · Nunu
 
+Android Engineer at [**Toss**](https://toss.im/), building React Native frameworks.  
+Working with Kotlin, Compose Multiplatform, Swift, and React Native.
 
+[Blog](https://medium.com/@l2hyunwoo) · [LinkedIn](https://www.linkedin.com/in/hyunwoo-lee-0412/) · [Instagram](https://www.instagram.com/l2hyunwoo/) · [About me](https://florentine-legend-ffc.notion.site/HyunWoo-Lee-2a39afea7c8046cead1e32166674ac38) · Resume [EN](https://github.com/user-attachments/files/30145668/Resume.HyunWoo.Lee.pdf) / [KO](https://github.com/user-attachments/files/30145669/default.pdf)
 
-## Me?
+## Work
 
-<a href="https://medium.com/@l2hyunwoo"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@l2hyunwoo"/></a>
-<a href="https://www.instagram.com/l2hyunwoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/l2hyunwoo/"/></a>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyunwoo-lee-0412/)](https://www.linkedin.com/in/hyunwoo-lee-0412/) 
-<a href="https://florentine-legend-ffc.notion.site/HyunWoo-Lee-2a39afea7c8046cead1e32166674ac38"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
-<br/>
-<a href="https://github.com/user-attachments/files/30145668/Resume.HyunWoo.Lee.pdf"><img src="https://img.shields.io/badge/Resume(EN)-000000?style=flat-square"/>
-<a href="https://github.com/user-attachments/files/30145669/default.pdf"><img src="https://img.shields.io/badge/Resume(KO)-000000?style=flat-square"/>
+- **[Toss](https://toss.im/)** · Android Engineer, React Native Framework Team, Client Platform Tribe · Jul 2024–present
+- **[Mathpresso](https://mathpresso.com/ko)** · Android for QANDA, React Native for QANDA Tutor · Apr 2021–Jul 2023
 
-## Profile
+## Open source
 
-### Skills
+Maintaining:
 
-<p>
-  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img alt="KMP&CMP" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin(Compose)+Multiplatform&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label="/>
-</p>
-<p>
-  <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img alt="SwiftUI" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-</p>
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+- [jindong](https://github.com/compose-jindong/jindong) · [Cloudy](https://github.com/skydoves/Cloudy)
+- [granite](https://github.com/toss/granite)
+- [react-native-nitro-device-info](https://github.com/l2hyunwoo/react-native-nitro-device-info) · [react-native-nitro-cookies](https://github.com/l2hyunwoo/react-native-nitro-cookies) · [react-native-buffered-blob](https://github.com/l2hyunwoo/react-native-buffered-blob)
 
-### Careers
+<details>
+<summary>Other contributed projects</summary>
 
-- 2024.07 ~ : [Viva Republica(Toss)](https://toss.im/career/article/rn_framework_2511)
-  - Android Engineer, React Native Framework Team, Client Platform Tribe
-- 2021.04 ~ 2023.07 : [Mathpresso](https://mathpresso.com/ko) 
-  - QANDA, Android Developer
-  - QANDA Tutor, React Native Developer
+- [android/cahier](https://github.com/android/cahier)
+- [mrousavy/nitro](https://github.com/mrousavy/nitro)
+- [ZacSweers/metro](https://github.com/ZacSweers/metro)
+- [leegeunhyeok/craby](https://github.com/leegeunhyeok/craby)
+- [thorvg/thorvg.android](https://github.com/thorvg/thorvg.android)
+- [facebook/react-native-website](https://github.com/facebook/react-native-website)
+- [facebook/react-native](https://github.com/facebook/react-native)
+- [skydoves/firebase-android-ktx](https://github.com/skydoves/firebase-android-ktx)
+- [DroidKnights Conference Application](https://github.com/droidknights/DroidKnights)
+- [skydoves/pokedex-compose](https://github.com/skydoves/Pokedex-compose)
+- [square/okhttp](https://github.com/square/okhttp)
+- [arrow-kt/arrow](https://github.com/arrow-kt/arrow)
+- [DroidKaigi Conference Applications](https://github.com/DroidKaigi)
 
-<h3> Open Source Projects </h4>
+</details>
 
-- Maintainer - [compose-jindong/jindong](https://github.com/compose-jindong/jindong)
-- Maintainer - [l2hyunwoo/react-native-nitro-device-info](https://github.com/l2hyunwoo/react-native-nitro-device-info)
-- Maintainer - [l2hyunwoo/react-native-nitro-cookies](https://github.com/l2hyunwoo/react-native-nitro-cookies)
-- Maintainer - [l2hyunwoo/react-native-buffered-blob](https://github.com/l2hyunwoo/react-native-buffered-blob)
-- Maintainer - [toss/granite](https://github.com/toss/granite)
-- Maintainer - [skydoves/Cloudy](https://github.com/skydoves/Cloudy)
+## Selected talks
 
-+ Contributor - [android/cahier](https://github.com/android/cahier)
-+ Contributor - [mrousavy/nitro](https://github.com/mrousavy/nitro)
-+ Contributor - [ZacSweers/metro](https://github.com/ZacSweers/metro)
-+ Contributor - [leegeunhyeok/craby](https://github.com/leegeunhyeok/craby)
-+ Conrtibutor - [thorvg/thorvg.android](https://github.com/thorvg/thorvg.android)
-+ Contributor - [facebook/react-native-website](https://github.com/facebook/react-native-website)
-+ Contributor - [facebook/react-native](https://github.com/facebook/react-native)
-+ Conrtibutor - [skydoves/firebase-android-ktx](https://github.com/skydoves/firebase-android-ktx)
-+ Contributor - [DroidKnights Conference Applicaton](https://github.com/droidknights/DroidKnights)
-+ Contributor - [skydoves/pokedex-compose](https://github.com/skydoves/Pokedex-compose)
-+ Contributor - [square/okhttp](https://github.com/square/okhttp)
-+ Contributor - [arrow-kt/arrow](https://github.com/arrow-kt/arrow)
-+ Contributor - [DroidKaigi Conference Applications](https://github.com/DroidKaigi)
+- **Jindong: Introducing Declarative Haptics in Jetpack Compose** · COSCUP 2026 X Ubucon Asia · [Slides](https://speakerdeck.com/l2hyunwoo/jindong-introducing-declarative-haptics-in-jetpack-compose)
+- **How Android Uses Data Structures Behind the Scenes** · DroidKaigi 2025 · [Slides](https://speakerdeck.com/l2hyunwoo/how-android-uses-data-structures-behind-the-scenes) / [Video](https://youtu.be/6Y8ir1WE-UU?si=tncex1JT985wBVhm)
+- **Essential concepts to know when learning Declarative UI** · DroidKaigi 2024 · [Slides](https://speakerdeck.com/l2hyunwoo/essential-concepts-to-know-when-learning-declarative-ui)
 
-## Experiences
+<details>
+<summary>All talks & workshops · 2023–2026</summary>
 
-<h3> Community Related </h3>
+### 2026
 
-<h4>Organizer</h4>
-
-- 2026.02 ~ : CodeRabbit Korea User Group Organizer
-- 2025.01 ~ : GDG(Google Developer Group) Korea Android Organizer
-- 2024.07 ~ 2024.12 : GDG(Google Developer Group) Incheon Organizer
-- 2023.07 ~ : Kotlin User Groups Seoul Organizer
-- 2023.07 ~ 2024.05 : GDSC(Google Developer Student Club) Konkuk University Lead
-
-<h4>Speaker</h4>
-
-<h4>2026</h4>
 
 - Build with AI on Android 2026
   - Agent, Koog Koog 하세요 - Kotlin으로 만드는 AI 코드리뷰 Agent - [CodeLab](https://gdgand.github.io/koog_codelab/index.html#0)
 - 2026 Build with AI: Hands-on Campus (GDG Campus Korea)
-  - 5웗부터 과제는 에이전트에게 맡기고 대학생활 즐겨보기(feat. Kotlin) - [CodeLab](https://l2hyunwoo.github.io/koog-practice-univ/codelab/koog-study-buddy-agent)
+  - 5월부터 과제는 에이전트에게 맡기고 대학생활 즐겨보기(feat. Kotlin) - [CodeLab](https://l2hyunwoo.github.io/koog-practice-univ/codelab/koog-study-buddy-agent)
 - COSCUP 2026 X Ubucon Asia (Taiwan)
   - Jindong: Introducing Declarative Haptics in Jetpack Compose - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/jindong-introducing-declarative-haptics-in-jetpack-compose)
 - FEConf 2026
@@ -88,7 +60,7 @@
 - DroidKnights 2026
   - 선언형 햅틱 라이브러리 "진동"을 소개합니다
 
-<h4>2025</h4>
+### 2025
 
 - Build with AI on Android 2025
   - 파급효과: From AI to Android Development - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/pageubhyogwa-from-ai-to-android-development)
@@ -103,7 +75,7 @@
     + Original: [Navigating Dependency Injection with Metro - Zac Sweers](https://speakerdeck.com/zacsweers/navigating-dependency-injection-with-metro) 
     + Thanks for great contents, Zac Sweers!
 
-<h4>2024</h4>
+### 2024
 
 - DevFest Android in Korea 2024
   - 선언형 UI를 학습할 때 알아둬야하는 키워드들 (ver.한국어) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/seoneonhyeong-uireul-hagseubhal-ddae-aladweoyahaneun-kiweodeudeul)
@@ -124,7 +96,7 @@
 - super.init(version=5)
   - C.D.G로 모두와 함께 성장하기 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/cdgro-moduwa-hamgge-seongjanghagi)
   
-<h4>2023</h4>
+### 2023
 
 - super.init(version=4)
   - 선언형 UI가 대세임을 "선언" 합니다. (Compose 학습부터 적용까지의 일대기) - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/seoneonhyeong-uiga-daeseimeul-seoneonhabnida)
@@ -135,8 +107,26 @@
 - GDG Devfest Songdo
   - fun HelloKMP(): GladToMeetYou - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/fun-hellokmp-gladtomeetyou)
 
-<h3> Development Related </h3>
+</details>
 
+## Community
+
+Organizer at **Kotlin User Groups Seoul**, **GDG Korea Android**, and **CodeRabbit Korea User Group**.
+
+<details>
+<summary>Community & mentoring history</summary>
+
+### Organizing
+
+- CodeRabbit Korea User Group · Feb 2026–present
+- GDG Korea Android · Jan 2025–present
+- Kotlin User Groups Seoul · Jul 2023–present
+- GDG Incheon · Jul–Dec 2024
+- GDSC Konkuk University · Lead · Jul 2023–May 2024
+
+### Mentoring & development
+
+- [38th SOPT Appjam](https://event-us.kr/sopt/event/129803) - Mentor (Android Development)
 - [37th SOPT Appjam](https://event-us.kr/sopt/event/119372) - Mentor (Android Development)
 - [36th SOPT Appjam](https://event-us.kr/sopt/event/107618) - Mentor (Android Development)
 - 5th SOPT Makers - Android Developer (2024)
@@ -150,9 +140,12 @@
 - 27th SOPT Android Development (2020)
 - 26th SOPT Android Development (2020)
 
-### Education
+</details>
 
-2018 ~ 2025: Konkuk University, Dept of Computer Science & Engineering
+**Education** · Konkuk University, Computer Science & Engineering · 2018–2025
+
+<details>
+<summary>My GitAnimals farm</summary>
 
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
@@ -164,3 +157,4 @@
   </a>
 </p>
 
+</details>
