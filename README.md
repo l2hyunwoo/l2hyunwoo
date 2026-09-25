@@ -1,14 +1,18 @@
 # HyunWoo Lee · Nunu
 
-Android Engineer at [**Toss**](https://toss.im/), building React Native frameworks.  
-Working with Kotlin, Compose Multiplatform, Swift, and React Native.
+Android Engineer at [**Toss**](https://toss.im/)  
+Working with Kotlin, React Native and Compose Multiplatform.
 
 [Blog](https://medium.com/@l2hyunwoo) · [LinkedIn](https://www.linkedin.com/in/hyunwoo-lee-0412/) · [Instagram](https://www.instagram.com/l2hyunwoo/) · [About me](https://florentine-legend-ffc.notion.site/HyunWoo-Lee-2a39afea7c8046cead1e32166674ac38) · Resume [EN](https://github.com/user-attachments/files/30145668/Resume.HyunWoo.Lee.pdf) / [KO](https://github.com/user-attachments/files/30145669/default.pdf)
 
 ## Work
 
 - **[Toss](https://toss.im/)** · Android Engineer, React Native Framework Team, Client Platform Tribe · Jul 2024–present
-- **[Mathpresso](https://mathpresso.com/ko)** · Android for QANDA, React Native for QANDA Tutor · Apr 2021–Jul 2023
+  - Android(React Native) Engineer, React Native Framework Team, Client Platform Tribe · Jul 2024–Aug 2026
+  - Android Engineer, AppsInToss Foundation Team · Aug 2026–present
+- **[Mathpresso](https://mathpresso.com/ko)** · Apr 2021–Jul 2023
+  - Android Engineer, QANDA
+  - React Native Engineer, QANDA Tutor
 
 ## Open source
 
