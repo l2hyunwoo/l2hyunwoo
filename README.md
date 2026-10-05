@@ -7,7 +7,7 @@ Working with Kotlin, React Native and Compose Multiplatform.
 
 ## Work
 
-- **[Toss](https://toss.im/)** · Android Engineer, React Native Framework Team, Client Platform Tribe · Jul 2024–present
+- **[Toss](https://toss.im/)** · Jul 2024–present
   - Android(React Native) Engineer, React Native Framework Team, Client Platform Tribe · Jul 2024–Aug 2026
   - Android Engineer, AppsInToss Foundation Team · Aug 2026–present
 - **[Mathpresso](https://mathpresso.com/ko)** · Apr 2021–Jul 2023
