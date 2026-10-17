@@ -1,4 +1,4 @@
-# HyunWoo Lee · Nunu
+# HyunWoo Lee · Nunu Lee
 
 Android Engineer at [**Toss**](https://toss.im/)  
 Working with Kotlin, React Native and Compose Multiplatform.
@@ -8,19 +8,23 @@ Working with Kotlin, React Native and Compose Multiplatform.
 ## Work
 
 - **[Toss](https://toss.im/)** · Jul 2024–present
-  - Android(React Native) Engineer, React Native Framework Team, Client Platform Tribe · Jul 2024–Aug 2026
   - Android Engineer, AppsInToss Foundation Team · Aug 2026–present
+  - Android(React Native) Engineer, React Native Framework Team, Client Platform Tribe · Jul 2024–Aug 2026
 - **[Mathpresso](https://mathpresso.com/ko)** · Apr 2021–Jul 2023
-  - Android Engineer, QANDA
   - React Native Engineer, QANDA Tutor
+  - Android Engineer, QANDA
 
 ## Open source
 
 Maintaining:
 
-- [jindong](https://github.com/compose-jindong/jindong) · [Cloudy](https://github.com/skydoves/Cloudy)
+- [jindong](https://github.com/compose-jindong/jindong)
+- [Cloudy](https://github.com/skydoves/Cloudy)
 - [granite](https://github.com/toss/granite)
-- [react-native-nitro-device-info](https://github.com/l2hyunwoo/react-native-nitro-device-info) · [react-native-nitro-cookies](https://github.com/l2hyunwoo/react-native-nitro-cookies) · [react-native-buffered-blob](https://github.com/l2hyunwoo/react-native-buffered-blob)
+- [react-native-nitro-device-info](https://github.com/l2hyunwoo/react-native-nitro-device-info)
+- [react-native-nitro-cookies](https://github.com/l2hyunwoo/react-native-nitro-cookies)
+- [nitro-webview](https://github.com/l2hyunwoo/nitro-webview)
+- [react-native-buffered-blob](https://github.com/l2hyunwoo/react-native-buffered-blob)
 
 <details>
 <summary>Other contributed projects</summary>
