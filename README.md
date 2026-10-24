@@ -64,7 +64,7 @@ Maintaining:
 - COSCUP 2026 X Ubucon Asia (Taiwan)
   - Jindong: Introducing Declarative Haptics in Jetpack Compose - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/jindong-introducing-declarative-haptics-in-jetpack-compose)
 - FEConf 2026
-  - 우리의 Nitro Module은 당신의 Native Module보다 아름답다
+  - 우리의 Nitro Module은 당신의 Native Module보다 아름답다 - [SpeakerDeck](https://speakerdeck.com/l2hyunwoo/uriyi-nitro-modulesneun-dangsinyi-turbo-modulesboda-areumdabda)
 - DroidKnights 2026
   - 선언형 햅틱 라이브러리 "진동"을 소개합니다
 
